@@ -1,0 +1,1199 @@
+09/02/2016 18:38 My @Quora answer to What are some epic tweets? https://t.co/hy05SXane9
+06/02/2016 09:16 RT @SwiftOnSecurity: Why don't web developers feel valued?  Because all the clients talk about is their &lt;body&gt;
+03/02/2016 06:52 My @Quora answer to What are the worst logo designs? https://t.co/yuaLSNdamz
+30/01/2016 23:12 My @Quora answer to How do I stop Indian people from answering my questions on Quora? https://t.co/OlQNlQQChY
+30/01/2016 10:27 My @Quora answer to What all basic data structures and algorithms should one learn before starting competitive prog… https://t.co/eIFvhuAE9l
+30/01/2016 10:13 My @Quora answer to What are some great short stories with a twist ending? https://t.co/nBglG5TOTo
+29/01/2016 18:56 RT @yudocaa: A/B testing using Django @arindammanidas https://t.co/PK6kwAjeZT
+27/01/2016 17:41 RT @johnhubner: #Python Programmer is out! https://t.co/4lAKFjtXFK Stories via @SambitAy @mattiacampagnan @ying_zuo
+27/01/2016 03:53 RT @raymondh: #python tip:  The list() builtin allows a "sequence" keyword argument: &gt;&gt;&gt; list(sequence='abc') ['a', 'b', 'c']
+26/01/2016 20:50 RT @reddit: FB is like Reddit's friend that steals all their jokes + gets a bigger laugh even though they told them wrong. https://t.co/WbK…
+26/01/2016 18:35 3 ways to perform Named Entity Recognition in Python https://t.co/80PZRCCjqj #NLP #Python #NER
+24/01/2016 13:23 Answer to What are the best #advertisements that manipulate people's #psychology effectively? Give this a read https://t.co/jGaIqdAjLY
+24/01/2016 05:31 US startup develops smart wallet 'Walli' https://t.co/0fQZm96ElM
+24/01/2016 05:25 AI program that writes Friends' episodes built https://t.co/NYBOmslFA2
+22/01/2016 07:34 Can you take the heat with inventor of the Scoville scale, Wilbur Scoville?! #GoogleDoodle 🔥🔥🔥🔥 https://t.co/jbuV8BOLJZ
+19/01/2016 03:46 Frustrated developers from the Web’s biggest projects say GitHub isn’t listening https://t.co/5q9PHnjPka
+16/12/2015 20:54 RT @necrosofty: "don't worry sir the system is completely secure" https://t.co/mcqx5eITkc
+16/12/2015 05:11 RT @HackerEarth: .@sachingupta006 in conversation with Stanzin Angmo, INDShare about our journey &amp; future objectives as a #startup: https:/…
+14/12/2015 18:42 RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
+11/12/2015 03:13 Has happened so many times.  https://t.co/pubXXJtdBg
+11/12/2015 03:05 @TechCrunch any similar article for Indian cities?
+11/12/2015 02:59 RT @AlSweigart: Instead of "import sys" and "sys.exit()", for tiny Python scripts I just type "5 / 0" and let the zero divide kill it. Anyo…
+29/11/2015 20:39 How not to name your child. https://t.co/ntsKd0gvVY
+28/11/2015 08:54 RT @fullstackpython: Vim &amp; #Python: A match made in heaven. Awesome post by @RealPython https://t.co/OtFBN14CRL
+21/11/2015 19:03 @raymondh will always name max as max_ from now.
+08/11/2015 01:24 RT @Farrenhite: Twitter made you a comedian Instagram made you a photographer Soundcloud made you a singer Because LinkedIn didn't get you …
+03/11/2015 20:57 Torvalds cannot take jokes :P https://t.co/aRLdx2Nbsy
+03/11/2015 16:20 @AlSweigart I hadn't even noticed the change until this tweet.
+31/10/2015 01:35 RT @Snowden: UK police seek power to access your entire internet history, despite public opposition. https://t.co/slknRi3jFV https://t.co/v…
+28/10/2015 16:08 RT @CompSciFact: A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer u…
+16/10/2015 07:30 RT @HackerEarth: .@sachingupta006 @vivekprakash receiving an award at #NPC2015! @HackerEarth in Nasscom's Emerge 10 list :) http://t.co/CK5…
+15/10/2015 20:29 Don't hate people who laughed at you and love people who stood by you because both of them contributed equally to your success.  #Fact
+15/10/2015 18:40 Most entertaining talk of Pycon India 2015. By @shakthimaan . https://t.co/rd5X8mMRID  #PyconIndia2015
+15/10/2015 18:15 Preparing for a Python Interview: 10 Things You Should Know https://t.co/vE1Wz2TEwC  #Python #Interview #Programming
+14/10/2015 08:04 Congrats @HackerEarth  for making it into Nasscom's top 10 hottest startups. http://t.co/jassoySfJS
+08/10/2015 19:46 Tonight's the night #ScareMeIn3Words #Dexter
+08/10/2015 19:41 RT @ThePracticalDev: Debugging http://t.co/3CWHcT6ndi
+06/10/2015 03:51 RT @CommitStrip: Internet of Things: Sysadmin@Home, the job of the future!  http://t.co/WzBYWm2aGW http://t.co/EsE7QSg5g7
+06/10/2015 03:49 @chowdhury_sayan @fedora congratulations :)
+27/09/2015 15:01 RT @adi_bhushan: Outcome #1 of Modi’s Silicon Valley visit: $150M fund for startups, design in India initiative http://t.co/auS65tAKJ1
+25/09/2015 07:25 RT @iamdevloper: Over 1 year, the average Vim user saves 11 minutes in productivity.  However, they lose 27 hours through evangelising Vim …
+24/09/2015 23:36 “Don’t build it in-house. There is an API for that.” by @kuomarc https://t.co/4B930B8Azr
+24/09/2015 23:13 RT @SwiftOnSecurity: Something. http://t.co/vOxTYGNd6i
+24/09/2015 17:34 RT @FunnyThingsUK: TBH Facebook is full of people you know but wish you didn't and Twitter is full of people you don't know but wish you di…
+23/09/2015 07:50 RT @NischalShetty: I think it's time Indian product startups got mature enough to understand growth != increase in team size. Keep your tea…
+19/09/2015 16:30 @sachingupta006 @HackerEarth this new design is awesome
+17/09/2015 15:15 RT @getpy: Pineapple - A standalone frontend to IPython for Mac: http://t.co/Ic3d7BzJxx
+17/09/2015 15:11 RT @evanderburg: Python APM Community Pack | @DevOpsSummit #DevOps #APM #Python http://t.co/dREeZe0I4P #tech
+17/09/2015 15:05 RT @AcademicsSay: A guide to academic gestures. http://t.co/RtWIgQFFAJ
+17/09/2015 14:59 RT @JanWillemTulp: Love these gorgeous maps by Luis Dilger https://t.co/wCK2bwELDp http://t.co/YyLyITMQw1
+17/09/2015 14:53 RT @pourmecoffee: Margaret Thatcher is from a different country http://t.co/1wnZE5iA3b
+16/09/2015 19:28 StackOverflow devs have the hardest job on the internet. When the site goes down, they have to fix it without #StackOverflow
+15/09/2015 06:53 Data is not information. Information is not knowledge. Knowledge is not expertise. Expertise is not execution.
+30/08/2015 21:01 @Abhi_Bhan @TVFPitchers  Sale gunde ho kya. Gunde nahin hain. Entrepreneurs hain bc
+26/08/2015 03:57 A nice explanation of Divide and Conquer Algorithms. Must watch. Santa's Dirty Socks https://t.co/54ocAiNpsd #Algorithms #Magic
+22/08/2015 03:43 RT @TechCrunch: Google brings Tweets to desktop search results http://t.co/eK0nPvOySQ http://t.co/Gec0TMkEVY
+16/08/2015 15:20 @grt1710 Seems interesting. Thanks for sharing.
+14/08/2015 23:25 @HackerEarth finally allows me to filter problems by tag. Coding at #Hackerearth just became more productive.  #MuchNeeded
+14/08/2015 09:13 RT @sama: Another key to success: learn to ignore haters.  This is hard.
+12/08/2015 22:41 RT @mxcl: Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck of…
+12/08/2015 07:32 RT @sama: Next time an investor tells you your market is too small, ask them for the size of the market 10 years ago for Airbnb, Uber, or S…
+10/08/2015 21:05 RT @sama: Google: the Y Combinator of big tech companies.
+10/08/2015 21:02 Google is reorganizing under a new umbrella company called Alphabet http://t.co/Qsjr6hePuS via @thenextweb
+10/08/2015 19:43 An article like this while working on #NLP is a real motivation.   “UX Breakdown of Customer Reviews” by @grt1710 https://t.co/l70Mlg96BQ
+09/08/2015 15:28 "The Actual Difference Between Mediocrity and Greatness" on @LinkedIn https://t.co/CozhNpqZgV
+08/08/2015 22:48 RT @9GAG: What an inspirational quote  http://t.co/JLFj0nbTR9 http://t.co/5PNu2nOE28
+08/08/2015 22:42 @airtelindia #GetAirtel4G
+08/08/2015 17:28 A Python 3 implementation for client-side web programming. Just shows the #versatility of python. http://t.co/wT6fPGpniy  #python #webdev
+08/08/2015 07:58 RT @9GAG: Deadpool is only following one person on Twitter http://t.co/kGKXkx4Pjv http://t.co/G5RrkT1czC
+06/08/2015 15:30 RT @_tomchristie: Just released Django REST framework 3.2. We now have support for a built-in admin interface. http://t.co/jMwj7h6w58 http:…
+06/08/2015 08:02 RT @kennethreitz: Using APIs with Python Requests and HackerEarth http://t.co/oIbt5vYQ9A
+05/08/2015 20:36 RT @BeingPractical: Midnight Life in last 10 years... 2005: Talking w/t friend(s) &amp; girlfriend(s) 2015: Talking w/t founder(s) &amp; startup te…
+05/08/2015 20:22 Python is the most popular programming language for beginners. http://t.co/zresS7Ka7t  #python #programming #bestlanguage
+05/08/2015 17:18 YouTube is getting rid of its weird ‘301 ’ ...http://t.co/efb8rhhlpT   #Youtube
+05/08/2015 00:44 Hey @mpd @interplay @adi_bhushan @managementlist @foolywk @AeydSaltan @StartEngineLA Thanks for following via http://t.co/KgXTThfv0N
+04/08/2015 21:20 I got "Good effort!" on "Do You Understand Semantic HTML?" What about you? http://t.co/eyVGOBfPq1 via @tutsplus
+04/08/2015 15:48 RT @jennschiffer: spiderman is the only real web developer, posers
+04/08/2015 13:39 Found a #podcast on #python and related #technologies. Hope the content is good and i learn a lot from it. http://t.co/kUrnJPkPyn
+04/08/2015 13:37 RT @anildash: EXCITING NEWS: Today we're launching @Makerbase! It's like IMDb, but for apps, websites, podcasts &amp; internet stuff: https://t…
+04/08/2015 13:30 RT @phalt_: My talk from @europython is up: What’s it’s really like building RESTful APIs with Django https://t.co/XUFv3ZJyTm
+04/08/2015 05:33 RT @hvpandya: Finally! Pay with debit cards in @uber. Goodbye wallet. #disruption http://t.co/7D75rCi3gd
+02/08/2015 11:15 A brilliant pitch and a brilliant episode. Loved it #TVFPitchers | S01E04 - 'Bulb Jalega Boss' https://t.co/vfzFwwgu94
+02/08/2015 03:27 RT @9GAG: Zombies eat brains... You're safe.
+31/07/2015 15:22 This is scary. Is this really true? http://t.co/mlZO7xYHVG  #Life #India #Engineering #Jobs
+31/07/2015 14:56 Video, shows the entire process. No fake promises of being an one touch app. Top notch video by @FlatchatApp https://t.co/bCNdNlWjX8
+30/07/2015 13:06 RT @TimesNow: Facebook now used by half of world's online population http://t.co/oxwlZ8o43n
+29/07/2015 19:14 Which Programming Languages Get Used Most At Hackathons? http://t.co/QbReLJy5mW via @techcrunch
+28/07/2015 19:46 @NischalShetty No. not a new product. But if i were a competitor of theirs used by audience like box or Gdrive, i would keep an eye on them.
+28/07/2015 13:58 @deathbullet @Housing No they don't. I was just fooling around. I mean't change .com to .ceo and you get the finger.
+28/07/2015 13:52 @deathbullet @Housing a slight change to your script might return you this http://t.co/MCdDjzQD3O . Good job by the way :)
+28/07/2015 09:44 @NischalShetty i agree with you. But maybe i couldn't explain myself clearly. This is what i meant. http://t.co/o4spPUzqrb
+28/07/2015 06:05 @NischalShetty i believe one should keep a close look on its competitors activities, as they might see something which we miss out.
+28/07/2015 06:03 @NischalShetty i disagree. one should not back down if competitors are building the same product.
+28/07/2015 05:47 RT @FlatchatApp: Calling all Python Developers out there! Check out the Flatchat Python Challenge on @HackerEarth  More info: https://t.co/…
+28/07/2015 05:44 RT @sachingupta006: Team @HackerEarth - 50 plus, growing strong, kicking ass #startuplife
+27/07/2015 21:12 @hasjob any python developer remote jobs?
+27/07/2015 19:46 @BitcoinGarden @SciencePorn it must be the server room :P
+27/07/2015 19:46 @NischalShetty whom are your competitors chasing? I mean what are their product ideas based upon. Isn't that your common users only?
+27/07/2015 18:54 RT @vlandham: Amazing visual explanation of what machine learning is http://t.co/zPe56RZyJt by @tonyhschu &amp; @r2d3us (with scrolling!)
+27/07/2015 17:07 RT @BJPRajnathSingh: The death of Dr. Kalam is an irreparable loss to this nation. He has left a big void hard to fill. I deeply mourn his …
+27/07/2015 16:58 RT @anilkumble1074: A huge loss for the nation, you were a source of inspiration to millions of countrymen #RIP Dr. APJ Abdul Kalam
+27/07/2015 16:58 RT @DeccanChronicle: A life well-lived: Remembering Dr APJ Abdul Kalam: http://t.co/azUGRUfNC5
+27/07/2015 16:31 RT @TimesNow: Prime Minister Narendra Modi condoles former President APJ Abdul Kalam's death, describes him as a "marg darshak" (PTI)
+27/07/2015 16:30 "Programming is tedious and fun."  What else is #tedious and #fun at the same time?   #programming #tedious #fun #learntocode #code
+27/07/2015 16:00 @shobhitic @Crowdfire It was the second time i used #crowdfire today. Was #dissapointed . Hope the problem is fixed soon.
+27/07/2015 15:31 Former President APJ Abdul Kalam passes away.  #RIPKalamSir #RIPAbdulKalam
+27/07/2015 13:44 Answer on @Quora by @EvanAsano to What is the most effective yet efficient way to get rich? http://t.co/KZk6JGCyA8
+27/07/2015 13:40 @EvanAsano read your quora answer to efficient ways of becoming rich. Will remember all the points you mentioned. Enjoyed it thoroughly. Ty
+27/07/2015 12:52 Hey @RecurVoice @jobsgroupindia @resumatcher @Aldebaran_news Thanks for following via http://t.co/KgXTThfv0N
+27/07/2015 12:30 Taylor Swift is the 3rd female artist to hit 1B views after Katy Perry and Bieber.. Taylor Swift - Blank Space https://t.co/KvJ8PNaMf9
+27/07/2015 11:05 @EqualExperts Please follow back
+26/07/2015 15:24 Respect for your privacy is coded into our DNA. Why WhatsApp banned this startup from using the platform http://t.co/AX6PHVRUR3
+26/07/2015 15:02 RT @py3k: django-basic-blog - A dead-simple blog app.  Nothing special. pypi: http://t.co/Ap0kz4Gvym www: https://t.co/C9YWiuNlcu #python
+26/07/2015 15:01 RT @SeanEllis: Automate the Boring Stuff with Python https://t.co/VW3W6km1sy #startup http://t.co/Kc6wmuiY4A
+25/07/2015 18:54 Resetting the password of my Macbook took longer than i expected. Happy its finally done  #Mac #Password #Reset
+25/07/2015 15:36 @WriterLegoBlock standard meme for such times :D
+25/07/2015 11:09 Just after I leave this happens :(  https://t.co/T7456Cyzfb
+24/07/2015 16:42 @sachingupta006 it surely is working :)
+24/07/2015 14:53 Become a rockstar programmer in just 2 mins https://t.co/AoUlnWep5Z  #programming #Cplusplus #Python #Rockstar
+24/07/2015 13:43 @Crowdfire event has ended now. Anyway i can view the recording?
+24/07/2015 13:40 @PythonWeekly flask seems to be more popular than django. Thoughts?  #python #flask #django
+24/07/2015 13:21 When companies provide you a #free service, you are their #product. And they #sell you (as a product) to other #companies
+24/07/2015 12:43 What is your favorite #Python module/library - from the standard lib?  #programming #coding
+24/07/2015 12:38 RT @Priya_Menon: You care because you are nice and kind.   They don't because you are nice and kind.
+24/07/2015 12:37 Nice comparison between #Python and #Ruby. Refer this if you are confused. https://t.co/FTPpbpE9qq #PythonvsRuby
+23/07/2015 16:31 @GetStatsApp 1. To know more about the trending topics. #cfchat
+23/07/2015 16:22 RT @Crowdfire: #cfchat will start in 10 mins, send “high tweet alert” warning to your followers.
+23/07/2015 15:56 @geekykaran even before opening the link, i knew this article is about you :)
+23/07/2015 13:47 The ultimate guide to learning anything faster http://t.co/mJAtoIZGYX via @thenextweb
+23/07/2015 08:51 1XX - info 2XX - ok 3XX - get outta here 4XX - you f***** up 5XX - I f***** up  HTTP Status Codes in 60 Seconds  http://t.co/2MzY1jkFyN
+22/07/2015 00:40 Hey @leyapenas781 @startup_deals @DevMob Thanks for following via http://t.co/KgXTTgXU9f
+20/07/2015 07:05 RT @pycoders: ptop - An awesome task manager written in #python . http://t.co/R8A06ktcVl
+19/07/2015 15:04 RT @NischalShetty: A1. When you get a brilliant idea and your boss shoots it down #cfchat  https://t.co/SE37ICj3kd
+19/07/2015 14:59 @Alllahdin so true
+19/07/2015 14:59 RT @AabhashK: ‘We’re not building a venture, we’re building a culture’ – 50 quotes from Indian startup journeys http://t.co/KfiFC6bPF4
+17/07/2015 19:22 A good read for every #python #programmer http://t.co/QvIYuG7PCi
+16/07/2015 20:48 RT @bchesky: In 2008 we were raising $150,000 at a $1.5M valuation. Here's the response. Think of this next time you're rejected. https://t…
+15/07/2015 00:30 Hey @HollyRansom Thanks for following via http://t.co/KgXTThfv0N
+14/07/2015 13:37 7 reasons why the New Horizons Pluto mission is a big deal http://t.co/M0LWGt0Wrd via @voxdotcom
+12/07/2015 19:44 Hey @brdynamic @work_frm_home_ @AabhashK Thanks for following via http://t.co/KgXTThfv0N
+12/07/2015 07:22 RT @coolfunnytshirt: Then: BBC shows India's Daughter  Now: BBC forgets to mention India's Daughter http://t.co/Sl8RqBNM0X
+10/07/2015 17:06 Valuation 101 – for startups looking to raise their first round http://t.co/1jkIK170uq
+10/07/2015 04:42 RT @GetSuperApp: #NowProfiling @HackerEarth. They believe in culture over process and we truly agree. #SuperWorkPlace #StartupLife http://t…
+09/07/2015 11:39 RT @firstpost: TaxiForSure CEO Arvind Singhal steps down 4 months after acquisition by Ola http://t.co/rB6fJylRox http://t.co/aaPjNcmvYN
+08/07/2015 00:26 Hey @shubham_tambat Thanks for following via http://t.co/KgXTThfv0N
+07/07/2015 13:16 Using APIs with Python Requests Module via @HackerEarth http://t.co/oqB3YeZPR0
+06/07/2015 19:00 RT @planetpython: PyCharm: Feature Spotlight: Become more productive with PyCharm http://t.co/mEczClDrna
+06/07/2015 18:58 Answer on @Quora by Anupreet Ramteke to What is a scam that everyone needs to be warned about? http://t.co/pK3XkBTgry
+06/07/2015 18:49 RT @getsentry: If you’re a student, teach, or work in research at a university, Sentry is free: http://t.co/T2NJCVKqMe
+04/07/2015 16:25 Preparing for Interviews? Checkout http://t.co/McqZOJwjC0 via @interview_bit
+01/07/2015 00:21 Hey @gjreddy1947 @chandrankandy @7WebPages @everydaytem Thanks for following via http://t.co/KgXTThfv0N
+29/06/2015 14:30 RT @MiljanNOLE: Great photo of @DjokerNole from today :-) #NoleFam #Wimbledon2015 http://t.co/Cla6RuWkBT
+29/06/2015 14:11 The hottest startup jobs in India right now. http://t.co/U3BRsH4ODY #Python
+27/06/2015 22:21 We always determine our self-worth by "comparing our behind-the-scenes bloopers to someone else's highlight reel."
+27/06/2015 10:11 Install and Configure the Atom Editor for Python http://t.co/8L0AtuKVB5
+23/06/2015 00:46 Hey @pulakeqybevy @king_pradyumna Thanks for following via http://t.co/KgXTThfv0N
+18/06/2015 20:01 The Web is getting its bytecode: WebAssembly http://t.co/sYvjbBciDy
+18/06/2015 16:25 RT @karangoel: We interviewed Jack Dorsey and Dick Costolo — here's what they had to say http://t.co/4uQCDXqLRU http://t.co/iBHY0APcjv
+17/06/2015 23:19 Hey @monkeylearn @5cfb1fcb33f244f Thanks for following via http://t.co/KgXTTgXU9f
+16/06/2015 17:16 RT @HackerEarth: #Programmers how often have you felt like this? via @ForrestTheWoods #SoftwareProgramming #Coding http://t.co/Iij1Hr0H9r
+12/06/2015 22:06 Hey @AbiTyasTunggal Thanks for following via http://t.co/KgXTThfv0N
+11/06/2015 17:52 RT @AlokSoni: How this father-daughter duo built a 100cr #sports footwear #brand in #India: http://t.co/1dhEReQ6Ma by @jaivardhan88
+11/06/2015 17:39 Really liked the 1st episode. Waiting for the 2nd one. https://t.co/PQtIjGL3PG #startup #entrepreneurship
+09/06/2015 17:38 RT @sama: a much better metric than growth rate for early-stage startup success is how much users love the product.  but it's much harder t…
+07/06/2015 19:38 Hey @japh44 @narayana644 Thanks for following via http://t.co/KgXTThfv0N
+06/06/2015 16:50 Hey @DrKshitish Thanks for following via http://t.co/KgXTThfv0N
+04/06/2015 16:40 Hey @AlphaGammaHQ Thanks for following via http://t.co/KgXTThfv0N
+01/06/2015 16:27 Hey @Richard2_smith Thanks for following via http://t.co/KgXTThfv0N
+30/05/2015 17:32 RT @ciypro: @kushaldas explaining about if __name__ == '__main__': and #flask related queries in May #pythonpune meetup 2015 http://t.co/84…
+30/05/2015 16:17 Hey @PythonRR @vedantkakarania Thanks for following via http://t.co/KgXTThfv0N
+29/05/2015 16:12 Hey @Pisces_gk Thanks for following via http://t.co/KgXTThfv0N
+27/05/2015 16:04 Hey @fitzrocks Thanks for following via http://t.co/KgXTThfv0N
+26/05/2015 15:57 Hey @FoundrMag Thanks for following via http://t.co/KgXTThfv0N
+26/05/2015 06:27 Join AMA - I am Sanjay Jain – Co-Founder Novopay, Entrepreneur in Residence (EIR) at Khosla l... on @HackerEarth
+25/05/2015 15:52 Hey @rozmanius Thanks for following via http://t.co/KgXTThfv0N
+24/05/2015 15:48 Hey @FlatchatApp Thanks for following via http://t.co/KgXTThfv0N
+23/05/2015 15:44 Hey @DanbecBeck Thanks for following via http://t.co/KgXTThfv0N
+23/05/2015 15:23 Join AMA - I am Vivek Prakash, co-founder of HackerEarth. AMA! on @HackerEarth http://t.co/wFXa4cOw0y
+23/05/2015 15:19 @coolfunnytshirt epic photoshop fail
+23/05/2015 15:18 RT @hectorivand: Things you do a Saturday in the morning. Move a site to a new server from you phone. @digitalocean #ubuntu #ssh http://t.c…
+23/05/2015 15:17 RT @Social_Cops: It took 38 years for radio to reach 50 million users. It took #Twitter just 8 months via @Ramani_Iyer http://t.co/mQSdiSDI…
+23/05/2015 15:15 RT @karangoel: No one star this repo now http://t.co/GePQ2fGaMR
+21/05/2015 17:39 Hey @jsonmez Thanks for following via http://t.co/KgXTThfv0N
+20/05/2015 15:27 Hey @JMDesros Thanks for following via http://t.co/KgXTThfv0N
+19/05/2015 15:24 Hey @7WebPages Thanks for following via http://t.co/KgXTThfv0N
+19/05/2015 10:32 Amazing website for learning Python and Django http://t.co/qgR6tX5rkh . @Marina_Mele keep the good content coming.  #python #django
+19/05/2015 10:28 RT @JhaSanjay: #ModiInsultsIndia is a worldwide top trend because it has offended the sensibilities of every Indian. A national disgrace be…
+18/05/2015 15:19 Hey @blakejamieson Thanks for following via http://t.co/KgXTThfv0N
+17/05/2015 15:13 Hey @BJSmithStrategy Thanks for following via http://t.co/KgXTThfv0N
+15/05/2015 15:03 Hey @pingan36 Thanks for following via http://t.co/KgXTThfv0N
+13/05/2015 14:53 Hey @sejalabhangrao3 Thanks for following via http://t.co/KgXTThfv0N
+12/05/2015 14:48 Hey @farhanpm786 @JartyNet @akashrajkn Thanks for following via http://t.co/KgXTThfv0N
+12/05/2015 07:09 This Startup Asked An Employee To Work For 4 Months Without Pay  http://t.co/ljpwmFCXVp
+10/05/2015 14:38 Hey @plaintshirts Thanks for following via http://t.co/KgXTThfv0N
+10/05/2015 14:27 RT @TheTweetOfGod: Happy Mother's Day to the woman who takes a whole lot better care of you than I do.
+10/05/2015 14:27 RT @GoogleforWork: All things innovation, all in one place. Join us online for #atmosphere15. Register http://t.co/hBNTytrYsT http://t.co/s…
+10/05/2015 14:26 RT @sachingupta006: What you need to know to be an #IoT engineer http://t.co/cUzGHYgVEf by @HackerEarth
+10/05/2015 08:53 RT @HackerEarth: Who said #programming can't be fun? #Programmer #Hacker http://t.co/XwFzGnL3Tw
+09/05/2015 14:33 Hey @Hired_LA Thanks for following via http://t.co/KgXTThfv0N
+09/05/2015 12:55 A brilliant #compilation of easy to understand #explanations of key #computerscience terms. Do go through them all.  http://t.co/FZmxnxuKLf
+09/05/2015 06:13 RT @raju: In India, its largest market outside the US, @LinkedIn says it has now crossed 30 million users: http://t.co/2QWr0ntSJV via @vcci…
+09/05/2015 06:11 RT @HackerEarth: Love for #Javascript via @codingHorror #Programmers http://t.co/rx1Iml9OIV
+09/05/2015 06:09 RT @raymondh: #python news:  Jython 2.7.0 has been released. Congratulations and cheers all around. http://t.co/vKkjR5c4XG
+09/05/2015 06:08 RT @rupasubramanya: Where are our fearless comedians @AllIndiaBakchod taking on Salman Khan &amp; stupid Bollywood celeb reactions?
+08/05/2015 14:28 Hey @pratulagarwal14 @Aditya_Shirole @BeShakespeare Thanks for following via http://t.co/KgXTThfv0N
+07/05/2015 14:23 Hey @farhanpm786 Thanks for following via http://t.co/KgXTThfv0N
+06/05/2015 18:31 RT @moonsez: If you must #StandBySalman make sure you aren't on the pavement.
+06/05/2015 14:18 Hey @arupm56 Thanks for following via http://t.co/KgXTThfv0N
+05/05/2015 14:13 Hey @ProjectBeegit @pranavnair_ @juumanjii_ @inugurthylaxman Thanks for following via http://t.co/KgXTThfv0N
+03/05/2015 14:03 Hey @CPUWARS Thanks for following via http://t.co/KgXTThfv0N
+01/05/2015 14:24 Reached 1000 tweets. Hope i enriched the #twitter community.
+01/05/2015 13:56 Hey @vallver @TeachMsp @indycci Thanks for following via http://t.co/KgXTThfv0N
+01/05/2015 11:36 @SchnettHappens enjoyed “Five Tips When Learning to Code”. Waiting for your post on how to use coding tutorials https://t.co/ZbuIFPNJQL
+01/05/2015 11:20 A great #timesaving tool to get rid of your #distractions. Try it now https://t.co/HGB68Iud95
+01/05/2015 04:50 RT @tech2eets: Flash sale in seconds: 40,000 units of Xiaomi Mi 4i go out of stock in 15 seconds http://t.co/b5gQRAis15 http://t.co/tlInSWY…
+30/04/2015 22:23 “8 Products Demonstrating the Future of Tech” by @rrhoover https://t.co/b4QOEhfrip
+30/04/2015 21:45 How to make influencer marketing work for your startup http://t.co/trTpQZuO1v via @YourStoryCo
+30/04/2015 21:41 RT @github: Git 2.4 Released—atomic pushes, push to deploy, and more! Read all about it on our blog: https://t.co/REMg6tRlTx
+30/04/2015 15:10 Wanna know what makes a good hackathon? Read this http://t.co/V6LwQv8Rvu
+30/04/2015 13:49 Hey @geekykaran @CodenameBazinga @HemangKorant Thanks for following via http://t.co/KgXTThfv0N
+30/04/2015 11:21 RT @Everette: Funny read here, "Pricing Strategy Lessons: How hipsters are driving up beer prices" http://t.co/3nvgNzbDJv via @priceintel #…
+29/04/2015 14:27 “How I grew from 300 to 5k followers in just 3 weeks” by @geekykaran https://t.co/G4hZ0HII1c
+29/04/2015 14:19 “‘GrowthHackers are a hybrid of Marketer and Coder.’ — Andrew Chen…” —@geekykaran https://t.co/2InYDlkThP http://t.co/xPf7yzTg5y
+29/04/2015 14:16 “‘Catching Up’ is Irrelevant” by @kt_seagull https://t.co/s1mj6NIt07
+27/04/2015 13:47 Hey @srashti_rajput Thanks for following via http://t.co/KgXTTgXU9f
+25/04/2015 08:58 Men - The Forgotten Gender | Deepika Bhardwaj | TEDxIIFTDelhi https://t.co/hKgY67ttVy
+25/04/2015 06:39 Quite an informative article “The 10-Second Résumé” by @evanrapoport https://t.co/IeTjOCpUmO
+25/04/2015 06:37 Answer on @Quora by Manas J Saloi to What's the best way to prepare for job interviews? http://t.co/q31IVYFyRs
+25/04/2015 06:23 resume: a short document that turns a creative, intelligent person into a homogenous list of boring bullet points.
+25/04/2015 05:59 RT @YourStoryCo: #India ranks 117 in world #happiness! Well, here are some actionable tips on 'How to be Happy' http://t.co/TTh5grqmb3 http…
+25/04/2015 05:58 RT @TedhiBaat_: Girls weight   Without Makeup and With Makeup. #NoMakeUpDay http://t.co/daa4Jst7Xb
+22/04/2015 13:09 Hey @Vishesh13v Thanks for following via http://t.co/KgXTThfv0N
+20/04/2015 15:16 Hey @Gopalreso Thanks for following via http://t.co/KgXTThfv0N
+16/04/2015 12:39 Hey @saisrikollipara Thanks for following via http://t.co/KgXTThfv0N
+14/04/2015 14:40 Hey @chrislpenner Thanks for following via http://t.co/KgXTThfv0N
+13/04/2015 12:25 Hey @ALIZAMADAR Thanks for following via http://t.co/KgXTThfv0N
+10/04/2015 11:24 The Net was born free, but telcos TRAIng hard to put it in chains http://t.co/14kUUVn2Nh via @YourStoryCo
+08/04/2015 17:04 Flipkart Signs Up For Airtel Zero Platform, A Big Blow To Net Neutrality In India! http://t.co/JHWiSO340s
+08/04/2015 11:59 Hey @SocialNinja2015 Thanks for following via http://t.co/KgXTThfv0N
+08/04/2015 08:31 RT @1kunalbahl: Welcoming @FreeCharge rockstars to @Snapdeal family! Now India's largest m-commerce company! @rohitkbansal @kunalb11 http:/…
+08/04/2015 08:30 RT @sachingupta006: Congrats to @FreeCharge for getting acquired by @snapdeal Super show @kunalb11
+07/04/2015 19:39 One great talk about @hackerrank , the story of how it started. https://t.co/V49XPsaHto
+07/04/2015 18:51 RT @HackerEarth: How to stay calm with #JobInterviews http://t.co/BbpSrbPM1u #Jobs #Interview #Recruitment
+07/04/2015 18:46 #inspiring. The story of Harishankaran, cofounder of @hackerrank. http://t.co/xNVZ5Yj3zZ
+07/04/2015 14:46 Answer on @Quora by Mukesh Pathak to What are good ways to learn Algorithms and Data Structures using Python and Pro… http://t.co/PdjAKt1YIq
+07/04/2015 11:54 Hey @EventsSai Thanks for following via http://t.co/KgXTThfv0N
+06/04/2015 09:39 “Always look for the fool in the deal. If you don’t find one, it’s you.” – Mark Cuban
+05/04/2015 11:47 Hey @Vrunreddy @jtodd6711 Thanks for following via http://t.co/KgXTThfv0N
+04/04/2015 11:39 Hey @Aliaanushka1 Thanks for following via http://t.co/KgXTThfv0N
+02/04/2015 11:29 Hey @AmandeepGupta9 Thanks for following via http://t.co/KgXTThfv0N
+30/03/2015 20:51 RT @IndiaToday: I was overwhelmed with the support from the crowd. It was almost like playing a world cup match - @nsaina #NEWSROOM http://…
+30/03/2015 20:49 @UberFacts you just lied
+27/03/2015 11:00 Hey @MrLeonardKim Thanks for following via http://t.co/KgXTThfv0N
+26/03/2015 10:55 Hey @Ashutosh_luthra Thanks for following via http://t.co/KgXTThfv0N
+25/03/2015 10:50 Hey @saba_jamil1 @WillFerrellMsgs Thanks for following via http://t.co/KgXTThfv0N
+24/03/2015 20:14 RT @IExpressSports: We wanted to take that trophy back home, says @ABdeVilliers17  http://t.co/ksXzwK7tRV #SAvsNZ #NZvSA http://t.co/Rl8Atk…
+24/03/2015 20:10 RT @9GAG: The difference between a leader and a boss. http://t.co/4NT21ABzUy http://t.co/UfaXdcfYAV
+21/03/2015 17:50 RT @coolfunnytshirt: If Bangladesh cribs more about bad umpiring during their match against India, BCCI will suspend Bangladesh Premier Lea…
+21/03/2015 17:49 RT @ndtv: Let's Talk Depression: actor Deepika Padukone's story http://t.co/LJKo3up1Y0 http://t.co/CFtR3FhmaO
+21/03/2015 17:48 RT @coolfunnytshirt: I hope, South Africa don't choke in the semi-final, so that they can choke against India in the final. #CWC15
+21/03/2015 17:10 Hey @ideahabit @GyanOfGod @varsha181 @theme_shaper Thanks for following via http://t.co/KgXTThfv0N
+21/03/2015 08:43 RT @SoniaChopra28: First ever drone picture of the Golden Temple in Amritsar India http://t.co/lAgzIL7uT5
+21/03/2015 08:41 RT @chetan_bhugat: Kids fighting in 2020:  Kid: Mom, usne mera tweet copy kiya.  Mom: Koi ni beta, abhi tera Papa ko bol kar uska handle su…
+21/03/2015 08:40 RT @ComedyBanda: *CinemaHall Security:Kya hai bag me Me:Bomb hai gun hai aur bisleri bottle  Security:Aap andar bisleri lekar nai ja sakthe…
+21/03/2015 08:38 RT @HackerEarth: The daily story between a developer and a tester! Do you face the same? #DeveloperProblems #DevHumor http://t.co/BrZSYmjtUk
+21/03/2015 08:36 "@UberFacts: George Foreman named all five of his sons George Foreman."
+20/03/2015 18:43 RT @arallan78: @bwoyblunder @KyaUkhaadLega This is how Rajdeep's book is doing in terms of customer reviews http://t.co/6LTDYAqr7C
+20/03/2015 13:30 @silus151 I would like to talk to you. Please provide your contact details. Thanks
+20/03/2015 10:58 RT @emanishchopra: @coolfunnytshirt @Being_Humor @sagarcasm #AUSvPAK #PakvsAus http://t.co/Yur8WIdkCF
+19/03/2015 20:49 RT @firefox: Looking for a magic wand? The Forget button is pretty close. Poof! Check it out: http://t.co/6VvmWSdfRF http://t.co/1bpslJNej7
+19/03/2015 17:37 RT @indiantweeter: I will cut my wrist if Pakistan wins tomorrow. 😂😂😂😂
+19/03/2015 17:35 RT @the_hindu: Cheating-free exams not possible in Bihar: Minister - http://t.co/4TjZeyvOGP http://t.co/TnKdTyndTo
+19/03/2015 17:34 RT @dhaval241086: Rest of Indians to Delhities:- I Told You So Bitches!!!!!! #AAPBreakUp http://t.co/buxCYtV2wH
+19/03/2015 09:09 RT @ESPNcricinfo: Rohit Sharma likes making ODI daddy hundreds, as his last five tons show   Scorecard: http://t.co/EcS6VmxIqP http://t.co/…
+19/03/2015 09:09 Sarcasm is the lowest form of wit, but the highest form of intelligence.
+18/03/2015 10:18 Hey @yupyork Thanks for following via http://t.co/KgXTThfv0N
+17/03/2015 22:03 RT @DesignUXUI: How it feels to watch a user test your product for the first time.  #UX http://t.co/IwcqECciFN
+17/03/2015 22:00 RT @karangoel: Long overdue but finally here. Kudos @github, @skalnik  PDF Viewing https://t.co/yUGodfFIsJ
+16/03/2015 10:59 RT @TimesNow: Do not make comments about colour of any woman’s skin: Smriti Irani slams Sharad Yadav #ShameOnSharad https://t.co/CiloUIt2CC
+16/03/2015 10:11 RT @Ojasism: iPhone 6 users be like "Today is Monday, just saw calender on my Phone 6. I hate Mondays unlike my iPhone. Btw I've an iPhone …
+16/03/2015 10:08 Hey @webcoding_tools Thanks for following via http://t.co/KgXTThfv0N
+14/03/2015 09:26 Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed.
+13/03/2015 20:27 RT @GuyKawasaki: Robert Downey Jr. gives a one-armed kid an Iron Man bionic arm [video] http://t.co/fzoCsld2v6 http://t.co/2oTUg4l7EY
+13/03/2015 20:22 RT @jaffathecake: UK now blocks sites that link to piratebay proxies. So, if there's someone you want taken off the net, just comment on th…
+13/03/2015 14:41 Worry is like a rocking chair: it gives you something to do but never gets you anywhere  #TakeLite
+13/03/2015 11:11 Game Of Thrones meets House Of Cards. Amazing Parody https://t.co/fsKTaSkcb2   #GoT #HoC
+13/03/2015 08:02 RT @8factapp: Just be thankful to all the people I have met.  Follow us on Instagram http://t.co/Pbz2vmN4hQ http://t.co/S0mE4BaFkX
+12/03/2015 22:13 2+2 = Fish, 3+3 = Eight, 7+7 = Triangle  #MathsRedifined
+12/03/2015 14:25 RT @IndianExpress: Facebook dumps ‘feeling fat’ option after online campaign | http://t.co/8OjTUI8tOO http://t.co/MWvlyvZ823
+12/03/2015 14:14 Do something you love   #GoodAdviceIn4Words
+12/03/2015 14:13 RT @TimesNow: My father is a politician, so I can break rules   This is the attitude of DMK leader Stalin's son #EndVVIPRacism https://t.co…
+12/03/2015 14:01 RT @Sarcusstic: Me-"I wanna do a research on girls with ugly..." Feminist: "ALL WOMEN ARE BEAUTIFUL" M: "...ugly boyfriends" F: "Oh. How ca…
+12/03/2015 13:58 Amazing short film with a valuable lesson https://t.co/dGZg3TJsT8
+12/03/2015 09:47 Hey @InnovateMe_xyz Thanks for following via http://t.co/KgXTThfv0N
+11/03/2015 09:10 Blanket on, too hot. Blanket off, too cold. One leg out, perfect. Till the demon of Paranormal Activity grabs it and drags you down the hall
+11/03/2015 09:09 RT @newsflicks: Super #Sangakkara at #SLvSCO #CWC15 http://t.co/cyCCjI0f7z
+10/03/2015 07:40 RT @FirstpostSports: That's it! Kohli finished it in style with a thumping four. India beat Ireland by 8 wickets. #INDvsIRE http://t.co/uiD…
+09/03/2015 22:32 RT @intel: Look mom, no wires #wirelesscharging https://t.co/kKBpEmeLBF
+09/03/2015 20:42 RT @IGN: New MacBooks for $1300 and $1600. Available April 10th. #AppleLive http://t.co/jItep1weu9 http://t.co/9cgEF9D0xw
+09/03/2015 20:40 RT @Joydas: #AppleWatch has battery life of whole day? Have u ever heard of any watch that has so much battery life? #AppleLive
+09/03/2015 20:39 RT @mediajorge: #AppleLive shorter version: http://t.co/3PWGlJEiHS
+09/03/2015 20:35 RT @Mededitor: "Solve for 'x'."  Who else is tired of being responsible for all of x's problems?
+09/03/2015 20:34 RT @digitalocean: Get Django up and running on an Ubuntu 14.04 server and start a new project http://t.co/tkDSA1sxVT http://t.co/inKi7UMqZn
+09/03/2015 16:36 RT @GuyKawasaki: Shades double as headphones using bone-conductive technology http://t.co/bbYwbyYeuj http://t.co/cl4hSy80G3
+09/03/2015 12:36 RT @KP24: DO NOT SAY WE HAVENT PRIORITISED ODI CRICKET! We played a back to back Ashes to make sure England played 6 months of ODI's before…
+09/03/2015 12:35 RT @htTweets: Student denied German varsity internship due to 'India's rape problem' http://t.co/DhFG1E9lp2 (Pic via @redditindia) http://t…
+09/03/2015 12:22 RT @firstpost: Indian denied internship at Germany Univ since he comes from a country with a 'rape problem' http://t.co/SMvLUhdLVG http://t…
+09/03/2015 12:19 RT @HTSportsNews: AND IT'S ALL OVER!!! ENGLAND's #CWC15 CAMPAIGN IS OVER  http://t.co/EtoAxX5jBp #ENGvBAN #BANvsENG #CWC15 http://t.co/NWY5…
+09/03/2015 12:19 RT @TheUnRealTimes: Meanwhile, reaction of a South African who was following the #ENGvsBAN game... http://t.co/MGtJX2YGpW
+09/03/2015 12:18 RT @TheUnRealTimes: SUMMARY: In case you missed the final overs of #ENGvsBAN match (with @ajayendar) http://t.co/28v4fwziBO
+08/03/2015 11:18 RT @YourStoryCo: We started a #Women's story platform in 2013. We've written over 250 stories since. Follow us on @herstoryYS for them. #Ha…
+08/03/2015 11:17 RT @HuffPostIndia: A massive movement against patriarchy is what we need http://t.co/OsRpjf8OGu #HappyWomensDay http://t.co/18mTwVXlbt
+08/03/2015 09:26 Hey @RAMKRIS70451075 @jkhowland Thanks for following via http://t.co/KgXTThfv0N
+07/03/2015 11:17 @hemantrkarora your presentation is visually appealing. Hope you get through.
+07/03/2015 11:16 RT @hemantrkarora: My #MphasisIntern #entry on #SMAC is on http://t.co/Sp9gcU0DAa Please retweet and favorite and help me win the #Internsh…
+07/03/2015 11:16 How to make a million rupees online as a student http://t.co/ZIAGCQVfsY via @YourStoryCo
+07/03/2015 03:41 RT @TheSwamy: Congrats @hackerearth - world's first women's hackathon - 7000+ registrations! #Awesome  @timesofindia @ingridlunden http://t…
+07/03/2015 03:40 RT @newsflicks: Wishing one of India's most versatile actors @AnupamPKher a very happy birthday! http://t.co/qWmKSQbCDm
+07/03/2015 03:23 RT @timesofindia: Opinion | Very few drops to drink: Water pollution is a bigger environmental threat than climate change http://t.co/YzR0X…
+07/03/2015 03:22 RT @anubhab: BHUBANESWAR railway station. Swachh Bharat. @coolfunnytshirt @rahulroushan @GappistanRadio http://t.co/wUZUFu7R3m
+07/03/2015 03:21 RT @sama: it's always striking to hear how much time people around the world spend reading hacker news
+07/03/2015 03:20 RT @planetpython: Vasudev Ram: PDFCrowd and its HTML to PDF API (for Python and other languages) http://t.co/Yw8wKJcpgx
+07/03/2015 03:20 RT @9gagarchive: While in the shower:   2% Washing.  8% Singing.  90% Winning fake arguments.
+06/03/2015 19:03 RT @Crowdfire: Life is what happens to you while you’re busy making other plans. - John Lennon #Badass #TwitterBadassChallenge is coming!
+06/03/2015 12:58 RT @rameshsrivats: #INDvsWI Everyone relax. Sri Sri Srivats Baba assures you that Sir Sir jadeja babu will see this through.
+06/03/2015 10:19 RT @witchybitchygal: Holi Cow! http://t.co/BYbVTy58ve
+06/03/2015 10:13 @coolfunnytshirt pagal ho gaya hai kya
+06/03/2015 10:12 RT @GabbbarSingh: Indian bowlers have taken 40 wickets in 4 matches. Who thought?
+06/03/2015 08:53 Hey @Promoplugs Thanks for following via http://t.co/KgXTThfv0N
+06/03/2015 07:56 RT @Housing: #happyholi :) http://t.co/bQkXW1pt1l
+06/03/2015 07:55 RT @HTSportsNews: Gayle was shocked when #IND's Shami got him with a short ball  Live: http://t.co/NjBbEs4uvA #IndVsWI #WIVsInd #CWC15 http…
+06/03/2015 07:55 RT @Sarcaism: INDIA can beat NZ and AUS too.. Aane doh #IndVsWI
+06/03/2015 07:54 RT @coolfunnytshirt: Exclusive: Why Indian bowlers are doing so well in the World Cup. #CWC15 #WorldCup2015 http://t.co/wvhlHGHhSh
+06/03/2015 07:51 @thetanmay still waiting
+06/03/2015 07:50 RT @EngineeRoholic: Gayle cares about his family.. He knows real cricket is IPL. #IndVsWI
+05/03/2015 21:24 RT @CW_Arrow: Happy Birthday @PaulBlackthorne! Starling City would be nothing without you. #Arrow http://t.co/TyorG2CGDM
+05/03/2015 21:24 RT @lordmesa: #TheAtom!! The final illo from today's earlier post!! @BrandonJRouth @ArrowProdOffice @ARROWwriters @CW_Arrow 😁👍😁 http://t.co…
+05/03/2015 19:26 RT @9gagarchive: Body: I'm gonna sleep. Mind: HAHAHAHAHA you're not! &amp;gt;:D
+05/03/2015 17:49 RT @alexjgarrett: One more t-shirt to hit the goal. Will you be that special person? :) http://t.co/BrfoHqWL5h
+05/03/2015 12:22 RT @bwoyblunder: Early call: BBC vs GoI could be a prolonged court battle which will be portrayed as West vs Fascist Sanghis although BBC c…
+05/03/2015 11:43 RT @nextbigwhat: Youtube Pulls Down BBC’s Nirbhaya Documentary Video From The Site. http://t.co/jUBGmGHXwR http://t.co/YmtgU4wo0p
+05/03/2015 11:20 RT @newsflicks: Indians won't hear the rapist speak in #IndiasDaughter but who will ban these thoughts? #NirbhayaInsulted http://t.co/lfXx9…
+05/03/2015 11:19 RT @firstpost: The man who raped India's Daughter: I wish I hadn't watched the BBC documentary, @piyasreedg http://t.co/VZwqdD6XaZ http://t…
+05/03/2015 08:47 Hey @bbrown1571 @PrincessBibiRF Thanks for following via http://t.co/KgXTThfv0N
+04/03/2015 19:14 RT @9GAG: I really thought 2015 had potential to be "my year" but we're 2 months in and that ship has sailed so I'll try again for 2016
+04/03/2015 19:13 RT @Amit_smiling: Tchr told my daughtr to write Roll.nos of grls who r talking.She wrote this.. PS- Her school is all girl's school 😂 http:…
+04/03/2015 08:43 Hey @CryptoTraders Thanks for following via http://t.co/KgXTThfv0N
+03/03/2015 08:22 Hey @UXHow Thanks for following via http://t.co/KgXTThfv0N
+02/03/2015 08:19 Hey @hemantrkarora @lifehackfacts Thanks for following via http://t.co/KgXTThfv0N
+01/03/2015 08:13 Hey @mboondok1 Thanks for following via http://t.co/KgXTThfv0N
+28/02/2015 21:24 RT @TimesNow: The entire tax structure has been so well organised to give benefits to the rich and burden the common man: CPI(M) leader Sit…
+28/02/2015 13:02 RT @HackerEarth: LOL! :D Let the grading begin. How will you grade C, C++, and Java? #ProgrammingFun http://t.co/oWDCuFEaUM
+28/02/2015 08:11 If cricket is a gentleman's game then Raina is one of the gentlemen http://t.co/4f3lHD7esR
+28/02/2015 08:08 Hey @Sanskriti_Dawle @AdityaKhanduri @verkoren Thanks for following via http://t.co/KgXTThfv0N
+28/02/2015 07:17 RT @cricketworldcup: A great start for #IND at the WACA and its fans are hoping for more wickets! LIVE: http://t.co/Ib8S9igf61 #INDvUAE htt…
+27/02/2015 22:48 RT @CW_Arrow: .@JamesBamford breaks down the chilling Ra's al Ghul fight. #Arrow returns Wed, Mar. 18 with all new episodes! https://t.co/Q…
+27/02/2015 22:45 RT @timesofindia: WhatsApp to be suspended in Brazil http://t.co/LwLsWcXKWd
+27/02/2015 17:25 RT @CW_Arrow: Welcome to Nanda Parbat, Mr. Queen. Watch the latest full episode of #Arrow NOW: http://t.co/NvsVstEDVb http://t.co/5AEwpEywOO
+27/02/2015 10:56 @HackerEarth  C) 3 Deletions and 3 additions
+27/02/2015 10:52 @jub_in @NischalShetty @Crowdfire And i thought this new company copied your logo 😜
+27/02/2015 10:47 RT @tech2eets: Google to focus on Hangouts, but doesn't intend to take on WhatsApp: Sundar Pichai http://t.co/QoEqAeQhsU http://t.co/3vvnIf…
+27/02/2015 10:45 RT @timesofindia: #WhiteAndGold or #BlackAndBlue? #TheDress has confused the internet but science has the answer http://t.co/wfM35u6neU htt…
+27/02/2015 10:43 @HackerEarth C) Stacks
+27/02/2015 10:42 @HackerEarth C
+27/02/2015 10:40 RT @priyamavada04: My #MphasisIntern #entry on #SMAC is on http://t.co/53oCvo9VrX Please retweet and favorite and help me win the #Internsh…
+26/02/2015 07:58 Hey @abhiarote1994 Thanks for following via http://t.co/KgXTThfv0N
+25/02/2015 07:53 Hey @Stand_Up_Shots @DataScientistsF Thanks for following via http://t.co/KgXTThfv0N
+24/02/2015 15:02 Hey @BitcoinGarden Thanks for following via http://t.co/KgXTThfv0N
+24/02/2015 14:35 RT @ndtv: Virat Kohli can't be compared to Sachin Tendulkar yet, says Barry Richards http://t.co/BqxfyUGewX http://t.co/oRgKXawNS1
+24/02/2015 13:55 #help Please RT this to help my friend win the internship. http://t.co/VvBn94OjKp
+24/02/2015 13:46 @BitcoinGarden @SMACteam That's great. Thank you for all the help.
+24/02/2015 13:41 @trinityadam Nice article. Please RT this http://t.co/VvBn94OjKp #SMAC #SocialMedia #Social
+24/02/2015 13:40 RT @trinityadam: Use LinkedIn to Grow Your Business SEE How at: http://t.co/iCSmHVquIg  ReTweet Please #SocialMedia #LinkedIn http://t.co/0…
+24/02/2015 13:38 @SarahArrow great tips. Please RT this presentation http://t.co/VvBn94OjKp #SMAC #SocialMedia #analytics
+24/02/2015 13:34 RT @iamGunjanGrunge: Only an Indian can score 200 in an ODI match dosnt matter if he is from East or West, INDIA is the BEST #जयहिंद
+24/02/2015 13:33 @BitcoinGarden @SMACteam Please RT this presentation on #SMAC to help my friend get the #Mphasis #internship on #SMAC http://t.co/VvBn94OjKp
+24/02/2015 13:29 @LEADRSDO Please RT this presentation on #SMAC to help my friend get the #Mphasis #internship on #SMAC http://t.co/VvBn94OjKp
+24/02/2015 13:29 @susvis @BigDataU  Please RT this presentation on #SMAC to help my friend get the #Mphasis #internship on #SMAC http://t.co/VvBn94OjKp
+24/02/2015 13:27 @MilindaMartin @Dell @bruno68  Please RT to help my friend get the #Mphasis #internship on #SMAC http://t.co/VvBn94OjKp
+24/02/2015 13:26 @varun_yadav Have a look at this presentation. Please RT to help my friend get the #Mphasis #internship on #SMAC http://t.co/VvBn94OjKp
+24/02/2015 13:17 @netsolutions nice read. Please RT this presentation on SMAC for interested people. https://t.co/9h1m44ZmA9
+24/02/2015 04:31 RT @ConanOBrien: That unreleased book by Dr. Seuss they just discovered proves that Fifty Shades of Grey was completely plagiarized.
+23/02/2015 16:32 @priyamavada04 Nice presentation
+23/02/2015 16:11 RT @BBCNews: "I won. We all won." - Benedict Cumberbatch on missing out on #Oscars2015 best actor trophy http://t.co/c4rzR8ujOG http://t.co…
+23/02/2015 16:10 RT @TimesNow: The two Rs do not go together, Rahul &amp; Responsibility. Rahul is only a 9 to 5 politician: Sambit Patra #WhereIsRahul https://…
+23/02/2015 10:43 Honda - Keep Up (Faster): http://t.co/mna2MgYKhQ
+23/02/2015 07:43 Hey @LarsGranat Thanks for following via http://t.co/KgXTThfv0N
+22/02/2015 18:17 RT @MikeZakarian: A pimple is not a problem until it's recognized.
+22/02/2015 16:12 RT @9gagarchive: The longest five seconds of anyone's life is waiting to press the  "Skip Ad" button on YouTube.
+22/02/2015 10:24 RT @TimesNow: Team India celebrate as South Africa lose another wicket. David Miller out for 22 #IndvsSA #Powerplay2015
+22/02/2015 10:06 RT @cricketnext: #CWC15: Here is how @msdhoni - Mohit sent De Villiers' back to the pavilion.  LIVE: http://t.co/4vWUiKk4xm #INDvsSA http:/…
+22/02/2015 10:02 RT @FirstpostSports: Mohit Sharma has taken 2 wickets, 2 catches and helped effect one run out. #ThankYouIshantSharma #SAvIND Live: http://…
+22/02/2015 10:01 RT @Alllahdin: Gandhiji ka, World Cup ka, T20 ka.. Sabka badla lega re tera Mohit
+22/02/2015 09:55 RT @witchybitchygal: South African wickets crumbling faster than stale cookies
+22/02/2015 09:50 RT @LungFakeer: SA people learn Hindi. Harsha: That's a great great shot by Du Plessis, that's a four Pmumelelo. Pmumelelo Mbangwa:Haha.Tum…
+22/02/2015 09:47 RT @coolfunnytshirt: VVS Laxman : Every run save karna padega!   Hindi commentary coming of age!
+22/02/2015 09:43 RT @hinnaz: A person called Amla with no hair is the reason why I have trouble trusting herbal shampoos.
+22/02/2015 08:46 RT @witchybitchygal: Amla baalon ke liye accha hota hai  Ye Hasheem Amla ganja kyon hai phir
+22/02/2015 08:36 RT @SirJadeja: Dear South Africa,  You've Lost It Already. #MaukaMauka.  #IndVsSA #SAvsInd #CWC15 http://t.co/T1sG6R6mgy
+22/02/2015 07:38 Hey @kevinaldd @ochs_selina @shanigass55 @saianuragm16 @Lavera_Tanguma Thanks for following via http://t.co/KgXTThfv0N
+22/02/2015 07:38 Hey @Martha_mime @nolancarol2 @JuliannAshwort @rose_woodworth @AdinaFort @deidrasneed Thanks for following via http://t.co/KgXTThfv0N
+21/02/2015 23:01 RT @GrumpyLunatic: Everyone is having their piece of the action. #IndvsSA http://t.co/LUWloDZnP7
+21/02/2015 22:06 @IndianExpress @Buzzookaa disgusting
+21/02/2015 22:05 RT @IndianExpress: Swine flu: Hospital employee arrested for selling fake medicines http://t.co/5cq4PiA2Iu
+21/02/2015 22:03 The last episode of Breaking Bad is #62 — the 62nd element on the Periodic Table, samarium, is used to treat lung cancer.  #BreakingBad
+21/02/2015 21:27 @CrimeMasterV2 @coolfunnytshirt ayega mauka
+21/02/2015 21:26 @htTweets @Buzzookaa weird way of describing both the players
+21/02/2015 21:24 @9gagarchive it's not
+21/02/2015 21:21 @UberFacts the name couldn't be simpler.
+21/02/2015 21:17 @KrisSanchez @UberFacts The description is so accurate.
+21/02/2015 21:15 RT @IndiaToday: India vs South Africa: Five battles that'll decide Sunday's clash | India Today  http://t.co/vlLzIVQBW1 http://t.co/8OtPxPk…
+21/02/2015 21:14 RT @CricketNDTV: #WorldCup2015 Indian batsmen are back among the runs, we have enough batting potential to win matches: Laxman to NDTV http…
+21/02/2015 14:01 RT @9GAG: SOMEONE FINALLY SAID IT http://t.co/TUyuDDUebm
+21/02/2015 10:51 RT @TOIEntertain: The show goes on for DDLJ in Maratha Mandir  http://t.co/N1ycY0LXB4 http://t.co/JBeh4PswMq
+21/02/2015 07:33 Hey @Keke95Koky @ssaad_alqahtani Thanks for following via http://t.co/KgXTThfv0N
+20/02/2015 19:02 To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
+20/02/2015 17:23 RT @Being_Humor: Good Morning. Now help this guy. 😂😂 http://t.co/e5HuuJWTIa
+20/02/2015 17:23 RT @9GAG: Your eyes are bigger than your stomach http://t.co/2FGr6bwV4H http://t.co/2qvSa0WbBE
+20/02/2015 10:43 RT @tech2eets: Stayzilla raises $20 million in series B funding http://t.co/f1KrJSTCJA http://t.co/R2C60KcJqf
+20/02/2015 08:47 RT @RiddhiDhebri: Autowala's watch:        no  no  no        no              no    no       \_      no     no              no        no  no…
+20/02/2015 07:28 Hey @AseelMahmuod Thanks for following via http://t.co/KgXTThfv0N
+20/02/2015 04:29 @tech2eets @firstpost bloat is never a good thing.
+20/02/2015 04:27 @ashwinmushran that's a new record
+20/02/2015 04:25 RT @bhogleharsha: I've seen a few ridiculous things in cricket. This is up there from New Zealand.
+20/02/2015 04:25 RT @TimesNow: Brendon McCullum scores fastest fifty in the World Cup off 18 balls, breaks his own record off 20 balls http://t.co/J6sWmQWVxU
+20/02/2015 04:25 RT @51allout: This game will be over so quickly you could fit England's next T20 World Cup campaign into the time left over #CWC15
+20/02/2015 04:24 RT @FirstpostSports: And he isn't done. Another swatted six. McCullum has 60 off 19 balls. Stunning. #NZvENG http://t.co/FJEgSGDcIq
+19/02/2015 19:35 @UberFacts that's too many
+19/02/2015 19:34 RT @gauntface: QQ: Is it important to be able to identify the Android WebView from Chrome for Android? RT appreciated https://t.co/N6gY7xcV…
+19/02/2015 19:34 @GuyKawasaki all commercials are deceiving
+19/02/2015 19:31 RT @InsaanMrinaal: If youth follow #BlockBusterMSG , our nation can set example before the world.
+19/02/2015 19:30 RT @Drpayal_1289: @Gurmeetramrahim waooooo....Outstanding!!! Everyone is celebrating this great success "The #BlockBusterMSG " Success. ..H…
+19/02/2015 11:46 "@chiku_ravi: Honey *Abuse* Singh .  #CelebMiddleNames"
+19/02/2015 07:23 Hey @etkaorg @jsonmez @davonmagwood @bitfield @SarcasmLeague Thanks for following via http://t.co/KgXTThfv0N
+18/02/2015 21:15 RT @KananGill: Touch some feet https://t.co/wZxhMAH7C8
+18/02/2015 21:15 @KananGill goooooood
+18/02/2015 20:34 @mayankjec hope both of them train all the future pakistani bowlers 😜
+18/02/2015 20:25 RT @A_TRAGIC_GYRO: When you have an art block: Get away from your desk, go outside Never come back You're not an artist anymore You live ou…
+18/02/2015 20:20 RT @Siddharth__Dash: Sunny "VIRGIN" Leone Arnab "NATION WANTS TO KNOW" Goswami  #CelebMiddleNames
+18/02/2015 20:18 @ARROWwriters slade is back
+18/02/2015 20:15 Stephen Salmon Ladder Amell #CelebMiddleNames #Arrow
+18/02/2015 20:14 Rohit Maggi Sharma  #CelebMiddleNames 😆
+18/02/2015 20:13 @Ramiishaa_x it does
+18/02/2015 20:11 @GargiRawat @umasudhir @ndtv this applies to all of India
+18/02/2015 20:11 RT @GargiRawat: Say no to Hyderabad bangles made by child slaves..Consumer consciousness needed! Spl report by @umasudhir on @ndtv #NoChild…
+18/02/2015 20:09 @HoeZaay that's definitely one of the coolest things about Hyderabad
+18/02/2015 20:01 @atul91sharma lol
+18/02/2015 19:58 @davonmagwood would that make you batman ?
+18/02/2015 19:54 @atul91sharma can't get more sarcastic than this
+18/02/2015 19:51 @mayankjec IIN jokes always crack me up
+18/02/2015 19:46 @Doveye nice one
+18/02/2015 19:45 @Harshdubey__ really
+18/02/2015 19:43 RT @Ramiishaa_x: Alia baby face Bhatt #CelebMiddleNames
+18/02/2015 19:34 RT @Brampersandon_: *tightens straps on electric chair* Any last words? -I think male oysters should be called boysters Omg will someone th…
+18/02/2015 18:19 RT @htTweets: Nothing wrong in AAP's foreign funding, Centre tells High Court http://t.co/tccbdvi6n2 #ht http://t.co/tt3jPVPg8Z
+18/02/2015 18:18 @UberFacts how did they carry out the tests?
+18/02/2015 18:17 RT @MohitParmarr: Waiter: sir meethe mein kya lenge?  Gujarati: dinner.
+18/02/2015 14:21 22 games in 22 years by a man in his basement. http://t.co/VbX0MYjMWH
+18/02/2015 14:19 @kaalicharan @SonyTV This kinda seems funny that horrific
+18/02/2015 14:17 @SonyTV one of my favorite childhood shows #Aahat is back.  #AahatIsBack
+18/02/2015 14:15 @BBCSport Bangladesh wins the battle of the underdogs 😂
+18/02/2015 14:13 @9GAG how many times are you going to post this !
+18/02/2015 14:11 @joel__Samuel @Buzzookaa This is useful. Thanks for sharing
+18/02/2015 14:10 RT @joel__Samuel: #SwineFluScare Prevention is better than cure must read Dos &amp; Dont's Take care of your health, RT to spread the word http…
+18/02/2015 14:09 RT @FirstpostSports: Salman Butt has finally confessed to spot-fixing, say PCB sources http://t.co/Hq29NHozuv http://t.co/UD9ufc01kS
+18/02/2015 14:07 RT @firstpost: Delhi CM Arvind Kejriwal holds first Janata Darbar in Ghaziabad http://t.co/E8wMC7Qmo9 http://t.co/eUWhcnDMNd
+18/02/2015 13:56 RT @KentBeck: the *craft* of programming begins with empathy, not formatting or languages or tools or algorithms or data structures
+18/02/2015 13:55 @UberFacts that's the reason for the name
+17/02/2015 20:50 @raymondh nice tip
+17/02/2015 18:05 @LoKarDi_RT lol
+17/02/2015 12:39 RT @newsflicks: The two records that #Dhoni has to beat - one in #CWC15 - one back home (Satire) #IPLAuctions http://t.co/fhDqmuogUO
+17/02/2015 12:38 RT @timesofindia: 18 incredible photos of the Maha Shivaratri celebrations http://t.co/mhXKuG1ksg http://t.co/BYepM02z9I
+17/02/2015 09:13 RT @shekharkapur: The Lord of the Tandav by Abhishek Singh. The night when the Infinite dances with the Finite. #MahaShivratri http://t.co/…
+17/02/2015 09:12 RT @sagarcasm: 16 Somwar Vrat karne se achha pati milta hai.  Does Hinduism also have a provison for Engineer boys? #MahaShivratri
+17/02/2015 09:11 Arnub Vs. Free Speech : News-hour Qtiyapa 2: http://t.co/KNRTJXqQqM #ArnubVsFreeSpeech
+17/02/2015 09:07 RT @timesofindia: 3 Indians in 100 shortlisted for one way trip to Mars http://t.co/jkMZDUDrFT http://t.co/6RNbV6pMXy
+17/02/2015 09:06 Hey @YakultIndia Thanks for following via http://t.co/KgXTThfv0N
+17/02/2015 07:13 Hey @Zeitgeist100 @The_AKJ1 @KR_1716 Thanks for following via http://t.co/KgXTThfv0N
+16/02/2015 20:54 @GuyKawasaki this is sad
+16/02/2015 20:51 "@google: Happy Presidents Day! http://t.co/92QvHwsTwx"
+16/02/2015 20:50 RT @verge: Interstellar's fake black holes are helping scientists' actual research http://t.co/i6qNfdSTA8 http://t.co/cXTYhNVrNF
+16/02/2015 20:50 "@witchybitchygal: Goodnight - Lets remember everything around us are as ugly or beautiful as our vision and hearts permit us to be"
+16/02/2015 20:16 @sama thank you for all the #H2SaS lectures. Learnt a lot from them.
+16/02/2015 14:02 @9GAG Happens every time for a good song
+16/02/2015 13:30 @TimesNow what the hell is happening. Unbelievable.
+16/02/2015 13:29 RT @minspirational: Pictures That Show Humanity Isn’t All That Bad - http://t.co/9DiY6A0Ncs http://t.co/oxG2yYrdt1
+16/02/2015 13:29 @minspirational @9gagarchive Wonderful
+16/02/2015 13:25 RT @htTweets: #WatchVideo | Yuvi's father to Dhoni: God will make you pay for what you have done to Yuvraj http://t.co/BVCpSKxpyh http://t.…
+16/02/2015 13:24 @TimesNow @Buzzookaa This is disgusting.
+16/02/2015 07:51 @Buzzookaa followed you.  Hope it would enrich my twitter experience.
+16/02/2015 07:09 Hey @harsh_in @jatin_BITS @hazalaski @77Amooll @aamirkhannw Thanks for following via http://t.co/KgXTThfv0N
+16/02/2015 06:56 @9GAG this kid seems depressed
+16/02/2015 06:55 "@Roflindian: You see the tattoos on Shikhar Dhawan's right arm? That's the manuscript of Dan Brown's next novel on hidden codes."
+16/02/2015 06:55 @Roflindian @witchybitchygal haha
+16/02/2015 06:54 RT @BeckerCPA: Thomas A. Edison Quote of the Day! #Becker #CPA http://t.co/NALx3wDoD3
+16/02/2015 06:52 RT @TimesNow: Yuvraj Singh reacts after Delhi Daredevils bought him for whopping Rs 16 Cr. #IPLAuction http://t.co/EfWBW8q1aT
+16/02/2015 06:51 RT @HaramiParindey: IPL teams are buying players like my mom buys clothes for me. "Is saal nahi to kya agle saal achhe se fit ho jayega" #I…
+16/02/2015 06:48 @justunfollow which tools are you talking about?
+15/02/2015 22:41 RT @insan_neha: #MustWatchMSG if u want to See The Real Hero The SuperHero The BraveHeart The RockStar Saint @Gurmeetramrahim Singh Ji Insan
+15/02/2015 22:32 @RegaJha Dance along too 😜
+15/02/2015 21:39 RT @9GAG: What really happens during group work http://t.co/vY7tqyHscf http://t.co/zQd5af9HiT
+15/02/2015 20:38 @igrigorik this seems interesting
+15/02/2015 20:35 @EngineeRoholic @worddicted India ke boys and Misbah played well
+15/02/2015 19:49 @9gagarchive it's not a relationship then
+15/02/2015 17:15 If I had a dollar for every time someone spelled my name wrong, I could pay for college, semester abroad, a new car, and a mansion in cash.
+15/02/2015 17:12 New Search Engine Scinet Claims To Outsmart Google http://t.co/bX6vKQoVmE via @HuffPostIndia
+15/02/2015 15:54 @9gagarchive K
+15/02/2015 14:15 1992 India won by 43 runs 1996 won by 39 runs 1999 won by 47 runs 2003 won by 6 wickets 2011 won by 29 runs  2015 won by 76 #CantBeatIndia
+15/02/2015 14:14 RT @LloydRodr28: #cantbeatindia Guess even the heavens knew it was gng India's way! Wud hate to blv d colours around wer a coincidence http…
+15/02/2015 14:12 @bwoyblunder @foreverblueJha
+15/02/2015 14:00 @GabbbarSingh @TwitNish sirf yehi kar sakte hain ye log
+15/02/2015 13:59 @peepali_live @coolfunnytshirt cracked me up
+15/02/2015 13:58 RT @peepali_live: Match Summary...!!! #IndvsPak  #dhawan  #CricketWorldCup  @coolfunnytshirt http://t.co/atXfwhwpMM
+15/02/2015 13:55 @BoredCricket @coolfunnytshirt i doubt Pakistan wale itni angrezi bol payenge.
+15/02/2015 13:53 True Ninjas let the microwave hit 0 but don't let it beep.
+15/02/2015 12:15 RT @nikecricket: One billion strong. #BleedBlue http://t.co/W1RJ2i5gEJ
+15/02/2015 12:14 RT @bhogleharsha: I've seen some great Pakistan sides over the years. This one doesn't measure up.
+15/02/2015 12:14 RT @LoKarDi_RT: RT if u think skipping breakfast, lunch, evening snacks, and susu was worth it. #indvspak #indiawins #nachobc
+15/02/2015 11:51 RT @Alllahdin: Why Pakis get upset over the defeat in the World Cup. 6 baar ho gaya, ab to aadat pad gayi hogi.
+15/02/2015 11:31 RT @Ra_Bies: Pakistan's run-rate and their economy go hand in hand, they can never rise #IndvsPak
+15/02/2015 11:30 RT @rameshsrivats: Misbah plays a forehand cross-court tennis shot to get out. Oh, must be because the #IndvsPak World Cup score is 6-0.
+15/02/2015 11:29 RT @reddit: Happy 50th birthday, Ken -- Serviius on /r/geek didn't forget! http://t.co/AqmSnBtvVd http://t.co/Qg8NJit3IF
+15/02/2015 11:21 RT @cricBC: Misbah - such a sensible batsman among morons. Pakistan should be worried if he is a RAW spy from India. #IndvPak
+15/02/2015 07:49 RT @jhunjhunwala: MS Dhoni just updated his fb status to ' Middle Order collapse'
+15/02/2015 07:48 RT @Alllahdin: If a Paki fights with u on Twitter, hve some respect for tht. He must have fought hard to be on Twitter in a country whr ppl…
+15/02/2015 07:43 RT @rameshsrivats: #IndvsPak Indian Batting - 21 overs - Sau 37 overs - Sau Sau After that - So So.
+15/02/2015 07:43 RT @Sychlops: They're called death overs because that's where India's momentum goes to die.
+15/02/2015 07:41 RT @GabbbarSingh: The difference between your team defending 300 &amp; 300 defending you is SPARTA.
+15/02/2015 07:41 RT @retardedwriter: You call it a drop catch, We call it another 200 Rupees.-Pakistani Fielders #IndiaVSPakistan
+15/02/2015 07:03 Hey @priyamavada04 @entreprenershp @Trkki1212 @nooraldulaimy92 @ChrisHulls @gruset Thanks for following via http://t.co/KgXTThfv0N
+15/02/2015 06:12 RT @IndiaSpeaksPR: Pakistan will struggle to bat under the lights.Or do anything under lights. They are not accustomed to uninterrupted ele…
+15/02/2015 06:11 Aaj kohli century marega  #IndvsPak #IndWins
+15/02/2015 06:08 RT @EngineeRoholic: hahaha 😂 , already #IndvsPak #CWC15 http://t.co/rj5tIaB34Q
+15/02/2015 06:08 @EngineeRoholic @LoKarDi_RT kisi Indian ko bech de. Aaj bahat jarurat padne wali hai.
+15/02/2015 06:06 A decade ago the Internet wouldn't work without our phones.  Today or phones won't work without Internet.
+14/02/2015 22:29 “How companies unwittingly let interns run their facilities” by @zachdunn https://t.co/CHxN0N2aEk
+14/02/2015 22:25 @GeorgeRRMartin_  still remember that scene clearly
+14/02/2015 22:25 RT @GeorgeRRMartin_: Happy Valentines Day http://t.co/o2YTa0qKvp
+14/02/2015 22:24 @reddit never thought about it this way 😂😂
+14/02/2015 22:23 RT @reddit: depressingcarrot has a point.... #ShowerThoughts http://t.co/iXzSQqHOYS http://t.co/X0dPF95Vjz
+14/02/2015 22:22 RT @CW_Arrow: Happy Valentine's Day from #Arrow!   Make sure to share with your valentine. @EmilyBett http://t.co/10S6dvhz4x
+14/02/2015 22:18 RT @stephenfry: 1 in 3 women will be raped or beaten in their lifetime STOP VIOLENCE AGAINST WOMEN a song of support by Bréon Rydell http:/…
+14/02/2015 22:14 #IndWins trending at No2. India has already won the twitter battle.  #IndiaVSPakistan #IndvsPak #WorldCup2015
+14/02/2015 22:11 @harsh_in and would be waking up before the alarm goes off 😏
+14/02/2015 22:10 @The_rahulDRAVID epic
+14/02/2015 22:07 @UberFacts Nobody cares
+14/02/2015 22:06 @GuyKawasaki amazing 😄
+14/02/2015 14:00 RT @DeepikaBhardwaj: List of words to be banned from movies in India. I think #AamirKhan must say something on this now!!! http://t.co/Bidy…
+14/02/2015 12:40 RT @indiantweeter: RT if you want @narendramodi to follow back @bwoyblunder
+14/02/2015 08:18 RT @NaughtyDew_: This 14th Feb make sure u treat your wife well so that on 15th Feb she gives to the control over TV remote to watch Ind Pa…
+14/02/2015 08:16 “+300 Awesome Free Things for Entrepreneurs and Startups” by Voicester https://t.co/t6bvBoAOlD
+14/02/2015 06:59 Hey @ViiaTumblrr @silvanasantosf1 @hRFZnfIZz0sJFwn Thanks for following via http://t.co/KgXTThfv0N
+13/02/2015 22:42 RT @amellywood: Am I hugging myself? RT @PaulBlackthorne: Good time today shooting #Arrow with the big man @amellywood http://t.co/NvXC9zpi…
+13/02/2015 12:51 Answer by Islam Ragab to What useful trick/hack could save my life if I am in danger? http://t.co/ZnuastTg3x
+13/02/2015 12:44 Answer by Arvind Mishra to What are some mind-blowing facts about food? http://t.co/hei7jDJfg9 #Ananas #pineapple
+13/02/2015 06:59 RT @Dorkstar: When parents ask you to take bath during winters http://t.co/llsuQeMOlB
+13/02/2015 06:56 RT @NischalShetty: The Scientific Guide To Finding Your Valentine On Social Media  http://t.co/e5WmflNVmN
+13/02/2015 06:54 Hey @thabetwahbe Thanks for following via http://t.co/KgXTThfv0N
+12/02/2015 14:50 RT @aNTwNHs: GitHut - A visualization of Programming Languages in Github http://t.co/fLmgNRjiVX #dataviz via @littleark
+12/02/2015 11:51 Accepting that you were once wrong and saying it in front of the world, makes people trust you more ..  #AAPSweep #5SaalKejriwal
+12/02/2015 11:31 RT @Flipkart: Q5. What was your favourite moment from our #FlipHeart video? Share a screenshot with us! http://t.co/I72322Ftmo #FromFlipkar…
+12/02/2015 11:28 @justunfollow How to deal with negative comments on social media?
+12/02/2015 06:49 Hey @a6e33a0be91b417 Thanks for following via http://t.co/KgXTThfv0N
+11/02/2015 14:06 RT @TheViralFever: #KejriwalOnTVF #AAPSweep "@StoryPicker: AK67 appears on TVF’s Barely Speaking with Arnub http://t.co/a7Gds7eLUU http://t…
+11/02/2015 13:03 RT @YamiGautam_YG: Really endearing gesture by Varun from BiTS Pilani ! Beautiful sketch ! Thank you :) #promotiondiaries #Badlapur http://…
+11/02/2015 08:34 RT @ColtonLHaynes: Filming scenes tonight that will forever change the dynamic of the show. So much fun. #Arrow
+09/02/2015 22:57 RT @pydanny: .@google search is putting a commercial effort in front of official source for Python topics - even anonymous search http://t.…
+09/02/2015 20:29 Working with #API's on a slow internet connection sucks.  #SlowNetSpeed #Nightmare
+09/02/2015 06:34 Hey @zaiynmaIIik1 @RAoVARsha Thanks for following via http://t.co/KgXTThfv0N
+07/02/2015 14:23 RT @IndiaSpeaksPR: If you read between the lines of my anti-AAP tweets for the past one year, you will notice that I always wanted Kejriwal…
+07/02/2015 14:14 RT @9GAG: How I feel in February. http://t.co/uNu4Q3DRRV http://t.co/hvctCpOSm8
+07/02/2015 14:12 RT @GabbbarSingh: Thank you, Bhagwanji! :D http://t.co/pU6ervWEQl
+07/02/2015 14:12 RT @Vicky125vicky: Waiting for train to Pune, which is 3 hours late. One of the reason for defeat of BJP in Delhi. #DelhiVotes 😂😂😇😂😂 @FekuJ…
+07/02/2015 13:54 RT @deespeak: The broom is looking like its all set for a clean sweep! #DelhiVotes
+07/02/2015 13:53 RT @TimesNow: News Nation Exit Poll Vote Share: #DelhiVotes  AAP: 47% BJP: 39% Cong: 11%
+07/02/2015 13:52 RT @UberFacts: 15 of the best insults the internet has ever seen... http://t.co/2IzFWqUR2J http://t.co/IhHToINLbG
+07/02/2015 06:20 Hey @anand_thanu2242 Thanks for following via http://t.co/KgXTThfv0N
+06/02/2015 22:36 "I'm facing the demon inside created with every last part of me.I'll go on and on and on" Amazing song @WWESmackDown  http://t.co/b7AFjoRibQ
+06/02/2015 06:15 Hey @manmay_kulkarni Thanks for following via http://t.co/KgXTThfv0N
+05/02/2015 23:21 RT @justunfollow: Every day do something that will inch you closer to a better tomorrow. - Doug Firebaugh
+05/02/2015 18:12 RT @justunfollow: 10 million users r using us to grow on Twitter &amp; Instagram. Show us more love and share the app with your friends. http:/…
+04/02/2015 17:29 When you see the phrase "due to a computer error" reported in the media, no computer was at fault - someone somewhere messed up.
+03/02/2015 06:02 Hey @dvargas690 @SherpaProject Thanks for following via http://t.co/J1doR9gKfK
+02/02/2015 05:55 Hey @MohanKumar10011 Thanks for following via http://t.co/KgXTThOHxr
+01/02/2015 05:50 Hey @filmojo Thanks for following via http://t.co/J1doR9gKfK
+26/01/2015 12:48 Every time you stop yourself from doing something that you really want to do, you kill a part of yourself.
+25/01/2015 21:59 RT @9gagarchive: I love that classmate who argues with the teacher and entertains the whole class.
+24/01/2015 18:15 RT @secondofhername: Why there can't be an Indian Breaking Bad. http://t.co/fd572VyNfD
+24/01/2015 18:15 RT @witchybitchygal: Teach your son To respect women To treat them equally To value their opinions To protect them  Teach your daughter To …
+23/01/2015 19:10 If you have to keep telling people you're a smart  person, you're a moron .
+22/01/2015 16:58 A little less sky. A lot more high. A little less why. A lot more try. A little less many. A lot more few. A little less me. A lot more you.
+22/01/2015 16:44 RT @LOLendraSingh: Bruce Wayne comes out of the well in TDKR. The scene was filmed in our Jodhpur. #MehrangarhFort #PartOfHistory http://t.…
+22/01/2015 16:33 simultaneously worried shitless about the future but also could not care less and thinking about going back to sleep.
+22/01/2015 16:28 The UI of Whatsapp Web is just amazing. Try it here -&gt; http://t.co/LyQBdPtu7s  #WhatsappForWeb #Whatsapp #NSFW
+22/01/2015 16:26 RT @TweetErrant: Whatsapp Web http://t.co/f5dUKcSYg1
+21/01/2015 04:30 Hey @NLSrikanth Thanks for following via http://t.co/KgXTThOHxr
+18/01/2015 08:25 1 billion seconds = 32 years.
+18/01/2015 03:41 Hey @startupbuffer Thanks for following via http://t.co/KgXTThOHxr
+17/01/2015 16:58 I voted @justunfollow  on Bootstrapped Startup Of The Year via @wedgies #poll http://t.co/gmPUJsZMGV
+17/01/2015 16:57 RT @NischalShetty: Help us @justunfollow win the best Bootstrapped Startup Of The Year award by voting here http://t.co/2MNkm8LpBz
+17/01/2015 16:55 RT @This_is_ARC: Hey @ArvindKejriwal do you know who this Lady is? You were 10 yrs old then &amp; almost all your #AAPtards weren't born! http:…
+17/01/2015 16:53 RT @NaughtyDew_: Indians are obsessed with screen guards on their smart phones but never bother wearing a helmet on their head while riding…
+16/01/2015 15:10 Good people go through the most bullshit."
+16/01/2015 15:10 RT @justunfollow: If you're too open-minded; your brains will fall out.  ― Lawrence Ferlinghetti
+13/01/2015 01:55 Hey @gcolon197 Thanks for following via http://t.co/J1doR9gKfK
+09/01/2015 01:32 Hey @Rishi333 @ryanbradshaw Thanks for following via http://t.co/J1doR9gKfK
+06/01/2015 04:47 "Twitter Is Back" http://t.co/00lrHZo12k
+02/01/2015 18:09 "@ShirishKunder: The more you do for someone, the less they notice you."
+30/12/2014 06:07 Shame on @airtelindia Charging extra for VoIP. #boycottairtel #voip http://t.co/zvDW9C5o85 via @neutrality_in
+30/12/2014 02:08 Hey @OneMonthCSS Thanks for following via http://t.co/J1doR9gKfK
+29/12/2014 05:59 Hey @josi_josie @NischalShetty Thanks for following via http://t.co/KgXTThOHxr
+26/12/2014 17:09 The two most important days in your life are the day you are born and the day you find out why
+26/12/2014 02:52 33 Amazingly Useful Websites You Never Knew Existed http://t.co/eBuapfJyCg via @jessiprobus @buzzfeed
+25/12/2014 08:35 RT @9GAG: when you're waiting for someone to open the gift you got them http://t.co/bV99uUvFXX
+25/12/2014 08:31 RT @9GAG: Merry Christmas? 😭 http://t.co/AdSK1vd4rt http://t.co/n5zEslUXMR
+25/12/2014 08:29 RT @LoKarDi_RT: Srilankan names are so long, once news of a person's murder was misunderstood as massacre.
+24/12/2014 17:57 What if dogs bring the ball back because they think you enjoy throwing it??   Give it a thought. :D
+24/12/2014 15:53 RT @Dorkstar: Parents be like... http://t.co/7gkgmfCLsK
+24/12/2014 01:40 Hey @ca_sasikiran Thanks for following via http://t.co/J1doR9gKfK
+23/12/2014 14:42 What happens when a CPU heatsink is removed: http://t.co/aUcNVMdxeM
+23/12/2014 04:16 http://t.co/QtcEHDxnm1
+22/12/2014 15:51 #CleanMaster cleaned out 1.07GB of junk from my device! Think you can do better? http://t.co/pMwN92D62h
+22/12/2014 06:45 When you see the waiter bringing food. And its not yours.
+22/12/2014 04:56 My lazyness is like 8, when I lie down it becomes infinity :P :D  #Holidays #Bored #Laziness
+22/12/2014 03:28 How to become a programmer, or the art of Googling well http://t.co/aXA9TwOBid
+22/12/2014 02:44 Answer by @HokutoAndy to Is Quora big in India? http://t.co/V1dqE30pAu
+21/12/2014 16:15 “If you spend too much time thinking about a thing, you'll never get it done.”
+21/12/2014 14:24 “How I finally learned Rails” by @mackenziechild https://t.co/oPxbcK0sya
+21/12/2014 14:12 "You look tired" = Nice way of saying that you look like shit.
+20/12/2014 02:14 "Most Popular Interviews of 2014" http://t.co/0fw41iVl89
+20/12/2014 02:03 "Build a Spy Camera Inside a Coffee Cup" http://t.co/bnjiVkBN9V
+11/12/2014 00:33 Hey @jeremybernier @priceraja @vinay2125 Thanks for following via http://t.co/KgXTThOHxr
+10/12/2014 11:01 RT @Flipkart: Giving away ten Rs. 2500 vouchers today on Twitter... make sure you participate in our #BigAppShoppingDays contest! http://t.…
+10/12/2014 10:59 Air Bus flies 5 of its Flights together to make this Amazing Video. Must Watch. http://t.co/7V0eUPscEb
+10/12/2014 03:42 I just did the #HourOfCode - check it out! @codeorg http://t.co/OGYFWr9sxh
+09/12/2014 19:55 Get all premium features in basket upon registration  http://t.co/ZAlcvwtSU6
+07/12/2014 00:14 Hey @atul_nandan Thanks for following via http://t.co/J1doR9gKfK
+04/12/2014 00:23 Answer by @prateekkesharii to What are some of the most mind-blowing facts that sound like "BS", but are actually tr… http://t.co/HdhyeopItt
+03/12/2014 18:17 Bringing solutions which nobody understands to questions nobody asked.  #Mathematics
+02/12/2014 23:57 Hey @BeepFacts Thanks for following via http://t.co/J1doR9gKfK
+02/12/2014 21:23 Just as some people talk in their sleep, sign language speakers have been known to sign in their sleep.
+02/12/2014 14:15 Distance seldom separates people. Silence does.
+28/11/2014 19:54 Debugging software is the practice of removing bugs.  Programming is the art of putting them in.
+27/11/2014 17:47 RT @ZURBfoundation: What is quality code? http://t.co/TPWFq2QU65 http://t.co/p1gOfkoNjB
+27/11/2014 00:45 "People who make you the happiest can make you the saddest, because you are most vulnerable to them."
+26/11/2014 17:26 Amazing browsing statistics in #chrome #extension http://t.co/LAg22iWIL5
+25/11/2014 14:02 Answer by Akash Agarwal to What can I learn right now in 10 minutes that will be useful for the rest of my life? http://t.co/sXFiWYq8zJ
+23/11/2014 22:02 Boy: Let her approach me first.  Girl: Let him approach me first.   *And there dies a budding love story*  #Deadlock
+23/11/2014 12:55 8 billion in numbers, 16 billion in faces.  #Humans
+23/11/2014 12:51 Politicians divide us, terrorists unite us.  #Irony #India
+23/11/2014 08:09 Freelancing is a job without a boss. Entrepreneurship is a boss without a job.
+22/11/2014 23:05 Hey @sykeguvefisa Thanks for following via http://t.co/KgXTThOHxr
+22/11/2014 16:30 I belong to a generation which has faced this question in an exam-  Write 5 differences between a Calculator and a Computer!
+22/11/2014 09:17 Mom: Kidhar jaara h Aryabhatta? Aryabhatta: Ro zero ti kamaane
+22/11/2014 08:59 " I've never tried to hide the fact that it is my intention to become the best. " - Cristiano Ronaldo
+20/11/2014 16:50 Answer by Abhishek Raju to What can I learn right now in 10 minutes that will be useful for the rest of my life ? http://t.co/FJZBptP3vr
+18/11/2014 19:22 Answer by Pranesh Anantharaman to What are some great real life love stories that people have heard ? http://t.co/lZFl8QfSwI
+16/11/2014 14:03 Answer by Ryan Chew to What are some real life examples of chutzpah? http://t.co/feczsQkzFX
+16/11/2014 13:23 Uhhhh... A Sad Story http://t.co/lysbvmNC0J
+16/11/2014 13:21 No matter how great the talent or efforts, some things just take time. You can't produce a baby in one month by getting nine women pregnant.
+15/11/2014 21:16 This Guy Turns Down A Million Dollars For Him To Live In New York, His Reasons Will Inspire You http://t.co/T1XihpUMnM
+14/11/2014 22:25 Hey @MartinDemoOware Thanks for following via http://t.co/J1doR9gKfK
+13/11/2014 22:26 @prukalpa Read about you and your awesome team of SocialCops. You definitely know how to keep your interns happy. http://t.co/a6oMjrJhFA
+12/11/2014 22:15 Hey @6bb6e1a433014f6 Thanks for following via http://t.co/SVsCs7fCU1
+11/11/2014 22:10 Hey @brianyang Thanks for following via http://t.co/SVsCs7fCU1
+10/11/2014 22:06 Hey @ChandraPallaka @pashamyugandhar Thanks for following via http://t.co/SVsCs7fCU1
+10/11/2014 20:53 @UberFacts That doesn't make sense
+10/11/2014 19:51 This is why competition is awesome. Forces you to really think about what makes your tool different.
+10/11/2014 19:50 RT @UberFacts: 20 clever WiFi names we wish we thought of: http://t.co/5cdzA1Y9jf http://t.co/NXBVONrJZn
+04/11/2014 18:07 Being Smart is also about knowing when to act Dumb.
+01/11/2014 22:04 In the greater interest of the humanity, Saturdays should be made 12 hours longer than the rest of the days.
+01/11/2014 22:02 A moment of silence for all my wasted potential.
+31/10/2014 01:09 According to a study, teens that break the rules tend to become more successful entrepreneurs.
+31/10/2014 01:08 RT @jhuber: An inspiring TEDx talk from @alexgdickinson at Illumina on the end of disease and the future of medicine: https://t.co/FGqxiOml…
+30/10/2014 20:09 Hey @njFACTOR Thanks for following via http://t.co/SVsCs7fCU1
+26/10/2014 19:59 Hey @muralisaree Thanks for following via http://t.co/SVsCs7fCU1
+26/10/2014 08:42 @PrizeWin77637 Thanks
+26/10/2014 08:40 When I'm bored nobody texts me. But then soon as I'm busy, BAM... nobody texts me.
+21/10/2014 19:25 Hey @zepuhugomev Thanks for following via http://t.co/SVsCs7fCU1
+19/10/2014 21:33 they say the best things in life are free     is food free     is internet free     guess not
+19/10/2014 19:17 Hey @VikramVsli Thanks for following via http://t.co/KgXTTgXU9f
+13/10/2014 18:51 Hey @Siddharth__Dash Thanks for following via http://t.co/SVsCs7fCU1
+07/10/2014 18:24 Hey @shubhamjain1095 Thanks for following via http://t.co/SVsCs7fCU1
+05/10/2014 18:13 Hey @AndeyHarsha1 Thanks for following via http://t.co/SVsCs7fCU1
+04/10/2014 18:05 Hey @katialobofem4 @V_Ini_P Thanks for following via http://t.co/SVsCs7fCU1
+04/10/2014 17:44 ‘Commit to a niche; try to stop being everything to everyone.
+04/10/2014 12:39 Why is it that only after the argument is over... my mind suggests more suitable vocabulary ...
+04/10/2014 05:11 Want weekends off? Work your ass off  first! http://t.co/hSrmYDY4Rc via @YourStoryCo
+03/10/2014 18:03 Hey @CuteSnehaa Thanks for following via http://t.co/KgXTTgXU9f
+02/10/2014 18:09 Hey @DeveloperDrive @AbhavTewari @pkrasam @intouchapp @SinYPT @Minipada @SabiaSolutions Thanks for following via http://t.co/SVsCs7fCU1
+02/10/2014 18:09 Hey @Virender__Singh @CoalescenceIN @EkAurBottleLa @dhrjsimha @CrowdTDesigner @vickzrat Thanks for following via http://t.co/SVsCs7fCU1
+02/10/2014 18:09 Hey @AnkitaSharmaaa @chiradeep_DCD @rikstifler @katyayanshreesh @phpacademy @torrentramesh Thanks for following via http://t.co/SVsCs7fCU1
+02/10/2014 11:23 Here's Why Breakfast Takes So Long To Prepare When You Have Twin Babies http://t.co/4SqD701U7C
+30/09/2014 10:06 @Trend0772 Thanks for sharing
+29/09/2014 02:27 I don't understand how Super Mario can smash bricks with his head and hand, but dies when he touches a turtle. I like turtles.
+29/09/2014 02:26 RT @9GAG: Persistence of iPhones http://t.co/FXvPJ0zJQh http://t.co/5YIhDTBByK
+28/09/2014 05:31 RT @ImWhoooIm: Let go of disappointments &amp;  Hang on to the promises of God for your future.
+27/09/2014 21:29 “B. The Best You” by @BTheBestYou https://t.co/UBKZMhqjv1
+27/09/2014 00:48 ThinkFring - Share your resume to get hired by top startups. https://t.co/F7TbOX68ux
+26/09/2014 13:19 RT @adi_bhushan: Now use Whatsapp to search for products on MySmartPrice http://t.co/RLzt2152QK
+26/09/2014 09:02 @GuyKawasaki Hilarious
+25/09/2014 12:41 That awkward moment when you're singing along to a song on YouTube and the music stops loading.
+25/09/2014 04:52 Just started the free course "How to Start a Startup" organized by @sama @ycombinator #CS183B. Join me here: http://t.co/LjATeipN4w
+24/09/2014 08:25 RT @GabbbarSingh: 24th September, 2007 - We took over Earth. (T20 World Cup)  24th September 2014 - We take over Mars
+24/09/2014 04:31 RT @rameshsrivats: Wow. #Mangalyaan has travelled 680 million kilometres. That's the most by any Indian entity since Pratibha Patil.
+23/09/2014 20:45 @intouchapp Done
+23/09/2014 01:07 @intouchapp Please direct me to a member of the marketing team of your company.
+20/09/2014 11:24 RT @rameshsrivats: Bilawal Bhutto promises to take back every inch of Kashmir. Hehe. As far as sense is concerned, he's proved himself to b…
+17/09/2014 18:13 RT @Hardism: IRCTC = I Refuse Connectivity To Customer. #re
+16/09/2014 15:21 “@TwitrCovers: 3D Optical Illusion LED Lamp  http://t.co/sSv2cNowM9 http://t.co/eSdSq6QgcK”
+15/09/2014 09:05 This is really terrible.  https://t.co/WYw9GWNIQB  #ShameOnFlipkart
+14/09/2014 20:14 Samsung Trolls iPhone 6 Plus in Sarcastic New Ad [VIDEO] http://t.co/sMAKZSmsQR via @mashable
+14/09/2014 15:50 RT @KananGill: Making it worse. RT "@TOIEntertain: @deepikapadukone , It's a compliment! You look so great that we want to make sure everyo…
+12/09/2014 17:13 http://t.co/xrsAuSZGds
+10/09/2014 16:51 I would have accepted that god doesn't exist if logic would have been able to answer everything
+10/09/2014 07:50 WORLD HATES WOMEN | SHOCKING TRUTH: http://t.co/P5bVawmHNC
+09/09/2014 20:03 RT @Oatmeal: "Hey bro, you got the time?"   "Yeah, it's ... hang on.  Just a sec.  God fucking damnit. " http://t.co/2R4MXIVIcY
+09/09/2014 19:59 RT @jeffrey_way: Everyone complains about the watch...and then preorders one quietly.
+09/09/2014 19:58 People are happy with iPhone thickness, disappointed with battery.  So they made it thinner and kept the battery.  Apple logic.
+09/09/2014 19:58 RT @MKBHD: I would take a slightly thicker iPhone with massive battery over a protruding camera any day of the week. http://t.co/M0NIvyBD5Y
+09/09/2014 15:12 RT @adi_bhushan: Flipkart launches new private label Citron http://t.co/iPrTyYpOjl
+09/09/2014 06:44 "No drug gets to your head faster than fame."
+09/09/2014 06:39 Why Twitter is showing you favorites from people you follow - http://t.co/6eNHbJVoFt
+06/09/2014 19:46 @foreverblueJha I hope kaam ho gaya 😉😋😜
+06/09/2014 18:28 @foreverblueJha Happy Birthday Bhai
+05/09/2014 08:22 Happy Teachers Day @coursera @udacity @phpacademy @jeffrey_way @YouTube . Life would have been difficult without you.
+04/09/2014 21:11 Just be you, and if people don’t like it, well, fuck them
+04/09/2014 19:49 @KananGill Are you coming for Comic Con Hyderabad this October?
+01/09/2014 20:25 @kaustuv123 That is something I am looking forward to
+01/09/2014 20:23 @kaustuv123 Amazing work with @CoalescenceIN
+30/08/2014 20:08 Going to attend @Theaugustfest fest tomorrow. Hoping for one hell of an experience.
+29/08/2014 06:09 ♡(·j·)♡ Happy Ganesh Chaturthi
+26/08/2014 10:26 me: *sleeps for 4 hours* tired   me: *sleeps for 8 hours* tired   me: *sleeps for a month* tired   me: *sleeps for a year* still tired
+25/08/2014 22:02 I don't always have time to study...  but when I do,  I don't
+15/08/2014 17:54 Relationship between a boy &amp; a girl In USA: it's like solving ∫ e^x dx In India: it's like solving ∫ (1/log(x)) dx (which is not solvable)
+11/08/2014 08:44 After Pro-Kabaddi league, i am waiting desperately for Pro-GilliDanda, Pro-Kancha, Pro-KhoKho, Pro-LukaChhupi, Pro-pittu leagues..
+10/08/2014 16:22 RT @coolfunnytshirt: Twitter has come to THIS. Twitter has come to THAT. Twitter bahot vella ho gaya hai.. kisi ke paas bhi jaa raha hai..
+10/08/2014 16:22 A compliment is like a perfume, cherish it but don't consume it.
+10/08/2014 06:38 RT @CKarthikV: That day when millions of Indians around the world get "friendzoned". Officially. #HappyRakshaBandhan
+10/08/2014 06:38 RT @GabbbarSingh: That awkward moment when the wife ties the Rakhi around her husband's wrist which he received via post from his sister in…
+10/08/2014 06:38 We're all assassins who kill time, hoping to get paid for it.
+10/08/2014 06:37 RT @coolfunnytshirt: Alia goes to Varun to tie him rakhi..   Varun : Ye kya hai?   Alia : Rakhi Wala Love!   #Rakshabandhan
+09/08/2014 04:43 Haal E Dil Song (Cover) | Shraddha Sharma: She is just too good http://t.co/reklWUgqVj
+07/08/2014 16:22 #HollyShit Episode 5 | Kyunki SHIT bhi kabhi TV pe Popular thi: http://t.co/7iA3l6HLOH via @YouTube
+05/08/2014 17:44 If You Are A Software Engineer In India, You Will Absolutely Love This Video http://t.co/AajxDfX5tj via @storypicker
+03/08/2014 18:02 RT @katyayanshreesh: One of the first B-Plan events to promote social change!! Register today under the general or the social category... h…
+03/08/2014 05:16 How to be a Rapper: http://t.co/6W75uejzOA via @YouTube
+03/08/2014 05:07 Hey @thrivesolo @AnkitaSharmaaa @humourofsense @deathbullet Thanks for following via http://t.co/7SuZZfJy7B
+03/08/2014 05:02 Orlando Bloom vs Bieber http://t.co/EFmoPRu8O0 via @9GAG
+03/08/2014 05:00 Insane roof jump http://t.co/DAb0lrp9oO via @9GAG
+03/08/2014 04:45 RT @bwoyblunder: #HappyFriendshipDay http://t.co/YT1wRoJbbD
+03/08/2014 04:44 RT @DipikaPallikal: So glad I could have my man with me on such a magical day! @DineshKarthik http://t.co/1Za4qSAKzd
+03/08/2014 04:44 RT @9gagarchive: I'm happiest when left alone with internet connection and food
+03/08/2014 04:44 RT @9gagarchive: me: *sleeps for 4 hours* tired   me: *sleeps for 8 hours* tired   me: *sleeps for a month* tired   me: *sleeps for a year*…
+02/08/2014 15:37 RT @9gagarchive: me waking up: i can't wait to go to sleep tonight
+30/07/2014 14:57 Answer by Karan Atree to How will the Harry Potter series be if it had been written by Chetan Bhagat from India? http://t.co/OdlUCXRFmx
+30/07/2014 12:25 RT @EngineeRoholic: Hrithik : Om... Om....Om...Om....  Jadoo : chup kar BC..  Yahan meri wife mujhse earth mang rahi hai.
+30/07/2014 12:22 RT @rameshsrivats: Old Story: Ali Baba aur chaalis chor.  New story: Ali Mony aur char sau crore.
+30/07/2014 12:21 RT @LungFakeer: Suzanne: 400 Cr Hrithik: Hwhy? Suzanne: Why did you fly kites with Barbara Mori? Hrithik: Ooooooooooooooooooooooooooooooooo…
+30/07/2014 12:20 RT @coolfunnytshirt: Hrithik: Don't do this otherwise i'll show u my Krissh movies!   Suzanne: I have got Fardeen &amp; Zayed movies with me!  …
+30/07/2014 12:18 RT @Roflindian: Suppose someone demanded 400 crores from Salman. What would be his response?  "2 Kick le lo!"
+30/07/2014 10:08 For all the "sale" shoppers out there http://t.co/rFREWr5jCr via @9GAG
+30/07/2014 10:08 Difference between cats and dogs http://t.co/N6JtxMsntx via @9GAG
+30/07/2014 10:05 This is why I hate earphones http://t.co/7VsJkKlYtl via @9GAG
+30/07/2014 10:04 WWE RAW 7/28/14 Full Show HD: http://t.co/ltTk6sh3VD via @YouTube
+30/07/2014 10:01 RT @9gagarchive: I want to be the reason why you look down at your phone, smile and then walk into a pole
+30/07/2014 07:41 Answer by Xu Beixi to What is one quality you admire in people? http://t.co/gPXqeYF6Np
+29/07/2014 17:04 RT @worddicted: The freedom to talk nonsense suppresses the annoying effects of the nonsense that others talk to you
+29/07/2014 16:56 Hey @RuderMukhi Thanks for following via http://t.co/7SuZZfJy7B
+29/07/2014 05:15 RT @nainkatary: Being nice to people is not rocket science, one should try it often.
+29/07/2014 05:12 @UberFacts Which college? Why do you always miss out on the interesting details 😒😒😒
+29/07/2014 05:11 RT @Inglorious_Engg: Some people exactly know how to make us smile inside. Those are the ones to keep always nearby.
+29/07/2014 05:10 RT @quizderek: In an irony that makes India so captivating,we a Christian family, live in a Hindu neighbourhood in a lane named after a Mus…
+28/07/2014 20:26 So lonely... http://t.co/ufE68HI5IE via @9GAG
+28/07/2014 20:26 Anyone with me? http://t.co/IqM6t5OyjO via @9GAG
+28/07/2014 20:23 I bet this guy's a good Dad. http://t.co/cVMTBLpRKV via @9GAG
+28/07/2014 20:21 RT @UberFacts: Today is National Milk Chocolate Day! http://t.co/ndint1DLd2
+28/07/2014 20:12 Hey @9gagarchive Thanks for following via http://t.co/7SuZZfJy7B
+28/07/2014 08:08 Answer by Andre Santos to What is the best billboard ever created? http://t.co/1qBsHCoBhe
+28/07/2014 05:09 RT @coolfunnytshirt: ACP : Iska matlab samjhe Daya?   Daya : Kya sir?   ACP : Ek saath chaar darwaza todenge!   Salman : Isme KICK hai   ht…
+27/07/2014 20:11 RT @LoKarDi_RT: RT if you've watched Kanan Gill's movie reviews #WeWannaSpreadBhasad
+27/07/2014 20:11 RT @ProudDilliwala: We are living in such times when even a shit is called Honey.  #YoYoHoneySingh
+27/07/2014 09:52 Very Nicely Written. How Risky Is It To Join an IIM? http://t.co/ZkMRZJ66Aj via @YourStoryCo
+27/07/2014 04:06 RT @UberFacts: Global warming is stranding baby harp seals in the ocean on icebergs. http://t.co/l4Nb1HIPHr
+26/07/2014 19:43 @UberFacts poor caine
+26/07/2014 19:40 @9GAG Message is awesome, but the code is wrong.
+26/07/2014 19:36 RT @BDUTT: Goosebumps.  #KargilVijayDiwas http://t.co/ZcsvQlBePn
+26/07/2014 17:55 RT @Inglorious_Engg: Being understood has become an achievement.
+26/07/2014 17:16 RT @oye_gujju: Facebook needs an "I've already seen this on Twitter" button.
+26/07/2014 12:50 When I have money = Nothing to buy. When I don't have money = I want everything.
+26/07/2014 05:37 Hey @foreverblueJha Thanks for following via http://t.co/7SuZZfJy7B
+26/07/2014 04:17 RT @sid__1504: A GIRL should be like a BUTTERFLY.  Pretty to see, Hard to Catch..;)
+26/07/2014 04:16 RT @mishra_satwik: We love them because they fight for the peace.  #Vijay_Diwas #Salute2Indian_Faujis
+26/07/2014 04:16 @UberFacts In India, healthy food is cheaper and fatty food is expensive.
+25/07/2014 17:36 RT @UberFacts: People who walk at a quicker pace are generally seen as more confident and happier than those who walk at a slower pace.
+25/07/2014 17:00 Heard this so many times, but never new the name of the song http://t.co/95F99OBzxm via @YouTube
+25/07/2014 10:29 Hey @CSSLight Thanks for following via http://t.co/7SuZZfJy7B
+25/07/2014 04:58 Hey @6jhmk @madewithsisu Thanks for following via http://t.co/7SuZZfJy7B
+25/07/2014 04:41 Nerds Today Bosses Tomorrow http://t.co/h1W8nISnGd
+25/07/2014 04:35 RT @TheNextWeb: Swarm for Windows Phone is coming ‘in the next few weeks’ http://t.co/BEefMzBh1q http://t.co/6WYKsb0aWq
+24/07/2014 19:39 RT @Lambar_Daar: Faking your own death?   Oh please, i'm faking my entire life.
+24/07/2014 19:36 @_robin_sharma I peacefully sleep at these times.
+24/07/2014 19:18 Answer by Anonymous to What is it like to always be the smartest person in the room? http://t.co/PbL4rzwK5J
+24/07/2014 15:53 RT @Spooferman_: Literacy is not the same as education. People who go and scratch messages of 'Santosh loves Champa' on monument walls are …
+24/07/2014 15:24 Facebook Is Now Worth $190 Billion http://t.co/pfMlVq4miO via @techcrunch
+24/07/2014 14:12 Answer by @vgr to How can you increase your productivity on side projects at the end of the day when you're tired fr… http://t.co/3hKv8RvEHT
+24/07/2014 13:32 "175 years of Times of India, 100 years of Bollywood.. The first 75 years must have been really tough for Times of India"
+24/07/2014 13:28 Answer by @balajivis to When is an MBA valuable? http://t.co/6R2DDWbG4P
+24/07/2014 13:21 RT @mashable: Google Autocomplete Proves Summer Is Melting Our Brains http://t.co/saSfHal2oC
+24/07/2014 13:21 RT @TheNextWeb: Pick a Font: The best new typefaces from June 2014 http://t.co/8N6LUiy7gt http://t.co/iWLfRcpTBT
+24/07/2014 13:19 @69fubar Get your shit together
+24/07/2014 13:18 RT @VentureBeat: What do you think of @Foursquare's new logo design? http://t.co/Zl5B81QPQI http://t.co/16garVgwJS
+24/07/2014 13:11 Answer by @balajivis to If companies were to be totally honest, how would they advertise their products? http://t.co/fa0ytroSOT
+24/07/2014 10:57 Answer by Ashwin Raghavan to What are some great advertisements? http://t.co/huMdxZi6DS
+24/07/2014 09:23 RT @coolfunnytshirt: chaar murga roz ka.. khaana mere roz ka.. RT @jenaanindya: Honey Singh chicken centre in Odisha http://t.co/Qkt7uddeY9
+24/07/2014 09:19 14 Signs You Are NOT A Morning Person http://t.co/DzUF3wTEXV via @storypicker
+24/07/2014 07:49 This isn't going to end well... http://t.co/zYxvdWZgKB via @9GAG
+24/07/2014 07:47 Every f**king time! http://t.co/6TAEFpTgir via @9GAG
+24/07/2014 07:46 My favorite gif of all time http://t.co/RQkoiXVv1R #ReallyFunnyGif
+24/07/2014 07:45 How they text &amp; drive in India http://t.co/zWQFwABqPg #JustIndianThings
+24/07/2014 07:44 Currently laying in bed http://t.co/xSX4N1kEAo via @9GAG
+24/07/2014 07:42 Impressive tumbling http://t.co/sxkwGyoWAu #impressive
+24/07/2014 07:42 Customer who bought this also bought... http://t.co/n1JBw4mr6e #Bieber=Shit
+24/07/2014 07:40 Shut up and take my money! http://t.co/uFpgXZNdFh #Contra
+24/07/2014 07:38 RT @rameshsrivats: Commonwealth Games are still around uh? I thought it'd be the 'Common Games' this time around after our organizers took …
+24/07/2014 07:37 RT @totalfilm: Robert Downey Jr has been hinting that he may yet still star in Iron Man 4: http://t.co/fjrnoNrguf #IronMan #Avengers http:/…
+24/07/2014 07:35 RT @UberFacts: The more you multitask, the worse you become at it.
+24/07/2014 07:34 RT @soumyadip: There are two kinds of people in this world. Which are you? (the @Zomato ads, GIFed) http://t.co/bzDxQj0lcz
+24/07/2014 07:34 RT @Zomato: Two kinds of people in the world (part 2) | See the full album here: http://t.co/R2hRd6Gj7S http://t.co/J5pbNSiPph
+24/07/2014 07:33 India is defined by Saina, Sania &amp; Sonia. The talent. The hype. The corrupt.
+24/07/2014 07:32 RT @raggedtag: You can hide your face. You can't hide your ugly thoughts.
+24/07/2014 06:42 FB Wall: Alastair Cook and Joe Root having troubles after Lord's Test http://t.co/82Xz8e9BrE
+24/07/2014 06:17 Hey @MyTechLogy Thanks for following via http://t.co/7SuZZfJy7B
+24/07/2014 05:25 MOST EXERCISE EVER - Prem Aggan Review: http://t.co/V7vwIF1hqz via @YouTube
+24/07/2014 05:20 RT @UberFacts: Toe wrestling is a sport in northern England.
+24/07/2014 05:02 Hey @FutureHusbandmy Thanks for following via http://t.co/7SuZZfJy7B
+24/07/2014 05:02 Hey @VimalVishnu @Roman088 @luufycom @kaustuv123 @FunWithHashtag @TheFreeVerse @siavash Thanks for following via http://t.co/7SuZZfJy7B
+24/07/2014 05:01 RT @coolfunnytshirt: Does this 'out of stock' thing really happens for Flipkart or is this their latest &amp; most happening marketing strategy…
+24/07/2014 05:01 RT @BeingMSD: *Manufacture Phones*Join Hands with Flipkart*Put jst 1piece in Stock*buy it yourself &amp; make it to the NewsXYZ PHONE R…
+24/07/2014 04:45 @mashable What a racist post !!
+24/07/2014 04:44 RT @mashable: Twitter is mostly a white male company, diversity data reveals. http://t.co/O29FhnLHfA http://t.co/a1DULwpEdo
+24/07/2014 04:44 RT @9GAG: True http://t.co/wkSAHGwVGI http://t.co/pE6qdDSlJg
+24/07/2014 04:44 RT @mashable: 'Gotham' promo urges people to "take back" the city. Watch: http://t.co/nHiiEYH0UL http://t.co/gohOOVbEEk
+24/07/2014 04:44 RT @UberFacts: In 1938, Adolf Hitler was TIME magazine’s Man of the Year and in 1939, he was nominated for the Nobel Peace Prize.
+24/07/2014 04:42 RT @xGogsx: .@AP just found out how big a difference a missing comma makes to a news story... http://t.co/23FSDXB7Jq
+24/07/2014 04:41 RT @Alllahdin: We wake up with hopes, fare the day with reality, and go back to bed with fears.
+24/07/2014 04:41 @UberFacts Its obvious. Considering most people don't think before casting the vote.
+24/07/2014 04:38 RT @samar11: Drunk girl in Bangalore dumps boy, he gets friend to rape her. Police focus on her drinking, ask if her mum also drinks.
+24/07/2014 04:37 The only thing that loves me is my blanket in the morning.
+24/07/2014 04:36 RT @UberFacts: "Smart guns" are guns that remain locked until they're in the hands of the rightful owner.
+24/07/2014 04:35 RT @karannkapoor18: Happiness often sneaks in a door you did not think was open .
+24/07/2014 04:35 RT @see_vaibhav: Every single person on this earth will have a story. Don't judge people before you truely know them. Truth might surprise …
+23/07/2014 19:34 " Maths teacher: If you have 12 chocolates n u give  5 to Priya 3 to Sonia 2 to Neha  then what will u get?  Kid: 3 New Girl friends..!!
+23/07/2014 19:33 "@FunWithHashtag: Ishant Sharma should be provided Z+ security after taking 7 wickets, Brazil fans may attack him ."
+23/07/2014 19:32 "@FunWithHashtag: More than Sharapova , I hate Google :/ http://t.co/b5nvuARsrA"
+23/07/2014 19:29 RT @JustASperm: Sharda University ~ The World is Here, Where are you ?   Leopard - IIT me hu BC .
+23/07/2014 19:29 RT @FunWithHashtag: Wife wanted to go to her maika.  Husband booked her tickets via Malaysian airlines One time investment. :))
+23/07/2014 19:28 RT @TPremierLeague: Alia Bhatt: Let's go for movie.  Varun: Shit, I've got a doctor's appointment today  Alia Bhatt: Just cancel it,Tell hi…
+23/07/2014 16:40 "Portrait of Bruce Wayne if his parents hadn't been shot http://t.co/1C469yIoto" #BatmanDay
+23/07/2014 16:37 RT @TP24x7: I am not alone, I have plenty of friends Ross, Rachel , Monica , Joey and Phoebe to name a few  #ForeverAloneProblems
+23/07/2014 16:37 RT @ankitabardhan: My mom is the only person who gives me cute nicknames.. :'(  #ForeverAloneProblems
+23/07/2014 16:36 RT @i__AmitSingh: #in2050 I'll be still tweeting my life experiences with hashtags like #ForeverAloneProblems.  ('._.)
+23/07/2014 16:36 RT @MissusHippie: Status update: "woohhooo! I turn 23 today" *likes it* *comments: "Happy Bday to me!! God Bless!"* *likes comment* #Foreve…
+23/07/2014 16:35 RT @CertifiedSton3r: You take a good selfie but have no one to send it to   #ForeverAloneProblems
+23/07/2014 16:35 RT @nim_j: Cute person : Hi !! You : Who paid you to do this?  #ForeverAloneProblems
+23/07/2014 16:35 RT @ankitabardhan: Me: *picks mom's phone &amp; likes my selfie**checks my Instagram*"Ooh 1 like, I wonder who could that be..?"  #ForeverA…
+23/07/2014 16:34 RT @jain_vinamra: You don't give a fuck about Hug day, Rose Day, Valentine's day etc. Actually you do, but you don't have a Valentine 😢 #Fo…
+23/07/2014 16:34 RT @CultFictionIN: Relationship Status: Waiting for a miracle.  #ForeverAloneProblems
+23/07/2014 16:34 RT @TP24x7: I joined twitter do I need to speak more? #ForeverAloneProblems
+23/07/2014 14:59 RT @TheNextWeb: Nokia Lumia 930 review: Finally, a flagship Lumia that feels like a phone first and a camera second http://t.co/ggqEHZER8h …
+23/07/2014 14:58 RT @9GAG: *eats one piece of lettuce*   *checks for abs*
+23/07/2014 14:56 RT @KyaUkhaadLega: Reporter: Your favourite movie ? Kohli: 10000 BC Reporter: 10000 naam se to koi movie nahin hai Kohli: 10000 BC BC Repor…
+23/07/2014 14:56 RT @WatDaDuck_: Dhoni would be the best brand ambassador for Lux underwear &amp; baniyan. Apna luck pehen ke chalo.
+23/07/2014 14:54 RT @KyaUkhaadLega: *He breaks a glass* She: Sab tod do, glass table chair window etc bhi  *She breaks a glass* She: Yeh glass yahan kisne r…
+23/07/2014 14:54 RT @BolshoyBooze: 2G CWG Vadra Ji Unemployment Soldiers killed at border Price rise Corruption No foreign policy Dipping exports  #ThankYou…
+23/07/2014 14:53 RT @Vyangkaar: Spotted #leopard #IITMumbai Monochrome. http://t.co/OI3d97c4Z1
+23/07/2014 14:53 RT @pal36: Sunny Leone at home http://t.co/mX6bqBl0qf
+23/07/2014 14:52 RT @pal36: As ignored as Internet Explorer.
+23/07/2014 14:50 RT @Spooferman_: I know a Mrs Bhalla. She is not talking to me coz I asked her if her first name was Dahi.
+23/07/2014 09:56 RT @mashable: Facebook continues to dominate when it comes to social logins: http://t.co/Oz0xaxDXLZ http://t.co/tOT1CuJt6o
+23/07/2014 09:44 RT @RajatPSahay: Chotu passed out from IIT :D http://t.co/flsyq7EuHq
+23/07/2014 09:36 RT @realslimsiddy: #In2050, we will all be having our own Jarvis style suits. Okay Jarvis, see if my son is dating someone. Lol.
+23/07/2014 09:34 RT @iMoosabhai: #In2050 Harman Baweja will make a comeback.
+23/07/2014 09:34 #In2050 Twitter, FB, Whats App will probably be out dated.. like orkut today!
+23/07/2014 09:30 RT @sidin: Q: How did the Leopard get into IIT? A: Through Spots Quota
+23/07/2014 09:30 RT @MrTippler: At least, the leopard's mother won't be worried about his marriage anymore. After all, ladka IIT se hai.
+23/07/2014 09:29 RT @UberFacts: A "gut feeling" is a chemical signal that your stomach creates to warn the brain of danger.
+23/07/2014 09:27 Watching John Cena &amp; Roman Reigns vs Randy Orton &amp; Kane : Raw,2014 (Full Match): http://t.co/DC5PIfda1M via @YouTube
+23/07/2014 07:45 RT @GabbbarSingh: Now there are more IITs than Leopards in India.
+23/07/2014 07:07 RT @Pushkar_Karn: Other leopards are scolding their kids "pados wala leopard ka beta IIT mein chala gaya. aur ek tu nalayak, 10 bajey tak s…
+23/07/2014 07:02 RT @retardedwriter: Even leopard has entered the IIT and look at you. Kuch nhi ho sakta tera--: Indian parents probably
+23/07/2014 06:59 England vs India, 2014 – MS Dhoni explains the rationale behind standing back to Ravindra Jadeja http://t.co/cuEDBVTbJ4
+22/07/2014 16:59 Answer by @SambitAcharyaS4 to What could be the best one-liners for the Brazil vs Germany game? http://t.co/2AX5zm262E
+22/07/2014 16:30 Hands-on with Xiaomi’s Mi 4: A gorgeous, robust phone with high-end specs at a mid-range price http://t.co/kH2ErYm2Ji via @thenextweb
+22/07/2014 16:16 Xiaomi Mi3 Unboxing And Hands On Video: http://t.co/Ytse3pvH5J via @YouTube
+21/07/2014 13:15 RT @SameerDharur: Ishant Sharma currently - https://t.co/rQ3EdtDhhG
+21/07/2014 13:12 Ishant is taking 1 wicket per tweet. Yeh kya ho raha hai
+21/07/2014 13:10 Ishant takes a fiver. The internet is going to go crazy tonight.
+21/07/2014 13:04 RT @LoKarloFollow: England's batting line-up is so deep that you can find Adele rolling over there.
+21/07/2014 13:04 RT @LoKarloFollow: Ishant Sharma is shocked, "muje itne wickets kaise mil rahe hai?"
+21/07/2014 11:36 How Private Browsing Settings Actually Work http://t.co/pim8O8Ftjq via @mashable
+21/07/2014 11:36 Give this app a try http://t.co/JqrhdKoMsW
+21/07/2014 11:31 @akshaykanitkar Yeah i was confused too when i first saw 😜
+21/07/2014 11:27 RT @UberFacts: Spongebob Squarepants is the only Nicktoon from the 1990s that hasn't ended yet.
+21/07/2014 11:26 RT @TheUnRealTimes: BREAKING: Ram Gopal Varma's next movie to be based on England cricketers' experience at the haunted London hotel (via @…
+21/07/2014 08:20 Witty use of muscles http://t.co/9bofR2mOiN http://t.co/VvWGiO0scF
+21/07/2014 07:54 RT @WIRED: We're one step closer to finding out what beer tastes like in space http://t.co/E3OlJtBRMw
+21/07/2014 07:51 @nainkatary Happy Birthday. I just love your tweets. God bless you.
+21/07/2014 07:47 RT @coolfunnytshirt: 'Lagaan' gave us Bhuvan.   'Lagaan at Lords' gave us Bhuvaneshwar Kumar.
+21/07/2014 05:55 RT @witchybitchygal: Apne maut ke baad Afzaa ki aatma ko mukti nahi mili. Sabhi dar dar ke kehte the 'Rooh Afza Rooh Afza'
+21/07/2014 05:50 RT @NeerajT4: "The best place to succeed is where you are with what you have." by Charles M. Schwab. #Startups
+21/07/2014 05:47 RT @witchybitchygal: When people say 'stop judging' what they effectively want to say 'stop finding faults with me, but praises are welcome…
+21/07/2014 04:30 You gotta see this. This is just amazing and unbelievable. #GOT #CharlieChaplin http://t.co/ijLSaXBRca
+21/07/2014 04:01 When is the repeat telecast of #ViratOnCNWK Heard it was really interesting.
+21/07/2014 03:56 @UberFacts Inspite of this, they overcharge us for a small amount of chips.
+21/07/2014 03:55 RT @nainkatary: The best thing we can learn from kids is the art of LET GO.
+21/07/2014 03:04 @UberFacts such crazy addicts. #madteens #iPad
+20/07/2014 18:46 @iamTanya_ disgusting but true. But such level of crimes are common at other places too.
+20/07/2014 18:44 RT @AskThePankazzzz: Arrey ruk ja re Sunday. Arrey tham ja re Sunday. Ki subah fatt padegi ho....
+20/07/2014 16:55 @coolfunnytshirt Ishant ki dulhaniya kaun hai
+20/07/2014 16:55 I am scheduling this tweet with the help of tweetdeck
+20/07/2014 16:23 RT @The_Sleigher: Ravi Shastri: Why so many CSK players in Indian team ?  Srini: They 'Cement' their place in the Indian team...
+20/07/2014 16:23 @coolfunnytshirt itne saare 'a' kyun dal diya?
+20/07/2014 16:21 @rameshsrivats  😂
+20/07/2014 15:31 Old video. But pretty cool information 5 True Facts about Android!: http://t.co/nSaVOQIqMH via @MKBHD
+20/07/2014 15:18 Answer by Gerard Danford to What are the best-kept secrets of successful business people? http://t.co/sdE4gZPWKb
+20/07/2014 15:14 Answer by @enniscath to Why do I not like the name of the website "I fucking love science"? #Hilarious http://t.co/bXliHXNxf2
+20/07/2014 15:13 Answer to What is the shortest and most beautiful poem ever written? http://t.co/pKZILIUOrX
+20/07/2014 14:23 RT @arnav_garg: Pro tips on how to win argument-  1. Take birth as a girl. 2. That's it. 3. You win. 4. Congratulations..!! 😂
+20/07/2014 14:12 RT @mishra_satwik: After #Mechjunction, here comes our 2nd platform for electrical engineering and engineers.  Do support us by... http://t…
+20/07/2014 14:02 @alexisohanian Reddit is truly fantastic.
+20/07/2014 14:01 RT @9GAG: Every once in a while I check up on people I hate to make sure I still hate them     I do
+20/07/2014 13:39 Do you? #CodeChef ~Via http://t.co/ETwOz8gZsv http://t.co/lFTN6VzHiC
+20/07/2014 13:23 @rameshsrivats aapki prediction sahi nikli 😜
+20/07/2014 13:19 @UberFacts Knew this
+20/07/2014 13:11 Just installed Chromoji in Google @googlechrome. My tweets are gonna be more awesome than ever. 👊
+20/07/2014 13:04 @nainkatary Ur birthday will be celebrated for two days on twitter :-D ;-)
+20/07/2014 12:26 A Girl Got Surrounded By Three Men At A Bus Stop At Night. Then They Showed Her What Real Men Do http://t.co/e4yvYqOd7T
+20/07/2014 11:55 RT @rameshsrivats: Match is well posed for Bhuvi and Jadeja to score the runs, take the wickets, hold the catches and win the test.
+20/07/2014 11:47 India has launched satellites for dozens of countries but can’t build toilets for its own citizens.
+20/07/2014 10:38 RT @UberFacts: The creators of Adidas and Puma were brothers... they were also Nazis.
+20/07/2014 09:29 Someone has to stop him. http://t.co/w19MybjhUl via @9GAG
+20/07/2014 09:25 9GAG - Why So Serious?  Found at http://t.co/B4c9Mdt9rf http://t.co/Fd5XlXUzkC
+20/07/2014 09:23 ...now with a 20% extra of feels. http://t.co/ZXZnajzttc via @9GAG
+20/07/2014 09:22 Seriously. He needs to be stopped. http://t.co/j8tA372m53 via @9GAG
+20/07/2014 09:19 Find out which Harry Potter character you are http://t.co/s5soN0IwTh via @9GAG
+20/07/2014 08:54 Look At Will Smith :D http://t.co/24Wo0kuF8n
+20/07/2014 08:01 iPhone 6 Sapphire: Explained!: Very informative http://t.co/qRnp4gjvk1 via @YouTube
+20/07/2014 07:51 @coolfunnytshirt Main toh har din highway jata hun.
+20/07/2014 07:50 @mashable this article is quite unlikely for your standards.
+20/07/2014 07:49 RT @mashable: The difference between New York City animals and animals everywhere else: http://t.co/7fYsY0tNPV http://t.co/U9FRw6pLHe
+20/07/2014 06:48 RT @9GAG: You never realize how boring your life is until someone asks what you like to do for fun
+20/07/2014 06:48 RT @TheUnRealTimes: #OldPost Facebook Wall: Reactions to Justin Bieber following Narendra Modi on Twitter and more http://t.co/0zoXowsCzN
+20/07/2014 06:47 RT @TheUnRealTimes: COMIC: Anushka Sharma trolls Virat Kohli http://t.co/Nx7CtNGZB2
+20/07/2014 05:00 Wolverine's Claws Suck: http://t.co/LqzQbRwQ88 via @YouTube
+20/07/2014 04:18 @UberFacts What song were they playing?
+20/07/2014 04:18 @UberFacts Too sad
+20/07/2014 04:15 Answer by Abhinav Krishna to Who is the most dangerous person in the world? http://t.co/5F4QnyECr1
+20/07/2014 04:08 http://t.co/Bik4ewggXT
+20/07/2014 04:08 'The Big Bang Theory' Has A Big Problem http://t.co/SIf9KtbPkC via @HuffPostEnt
+20/07/2014 04:05 Answer by @jorgeirun to What is a coder's worst nightmare? http://t.co/tcuuYVA9fY
+20/07/2014 03:57 RT @SanjeevKapoor: Congrats Ludhiana for planting 100,000+ trees in 1 hour  More than an attempt to make a record it shows love for environ…
+20/07/2014 03:25 Coke and Mentos #DeadlyCombos
+20/07/2014 03:24 RT @TheWeirdWorld: Sleeping is a cure to forget about pain, problems, stress and everything for a while.
+20/07/2014 03:11 Answer by Virali Modi to What are some examples that hold true to this statement: Appearances are often deceiving? http://t.co/q4qjbDyahQ
+20/07/2014 03:04 Everybody Wants To Rule The World - Game of Thrones: http://t.co/4GGqbwyWvH via @YouTube
+20/07/2014 03:03 https://t.co/xhnXGuIrQ0
+20/07/2014 03:02 https://t.co/QLiIJypyDE via @imgur
+20/07/2014 02:58 RT @gvicks: You can think I'm wrong,but that's no reason to stop thinking
+20/07/2014 02:54 @UberFacts Waiting for a day when you provide us with a source for all the stuff you post.
+20/07/2014 02:45 RT @UberFacts: Elvis Presley got a "C" in his 8th grade music class.
+20/07/2014 02:44 @nainkatary advance happy birthday
+19/07/2014 15:35 RT @MTV: #HappyBirthdayBenedictCumberbatch! http://t.co/4s8sq7blEZ @MTVother @ColinDGray http://t.co/p3ROLZSmeY
+19/07/2014 15:22 RT @Jeffrey_Archer: There I was, having my photo taken with Mrs Tendulkar, when an unknown Indian cricketer tried to join us... http://t.co…
+19/07/2014 14:52 RT @mashable: Twitter is about to make some much-needed improvements to its direct-messages feature. http://t.co/6p1kKQxfME http://t.co/FMW…
+19/07/2014 14:51 @ashu048 @akshaykanitkar Sahi Baat
+19/07/2014 14:18 RT @coolfunnytshirt: Sunil Narine bowled a maiden over in the super over. Yahi to scam hai. Iski CBI jaanch honi chahiye.
+19/07/2014 14:18 RT @9GAG: I need a hug http://t.co/MsVSzh7sZr http://t.co/tuYGjw9mKa
+19/07/2014 13:37 I blocked 134,932 ads and trackers thanks to Adblock Plus. https://t.co/aZNbaEEXAS via @AdblockPlus
+19/07/2014 13:34 TEDx Bangalore – Be prepared to be challenged http://t.co/RcJOPjqoVc via @YourStoryCo
+19/07/2014 10:22 @UberFacts You have such a large following. Don't put such stupid tweets
+19/07/2014 06:43 RT @UberFacts: A survey concluded you are more likely to fall asleep easier if you listen to "Coldplay."
+19/07/2014 06:42 RT @doctoratlarge: In my view it's very simple: If you don't follow traffic rules of your country, you can't expect politicians to adhere t…
+19/07/2014 06:42 RT @Hmmm_er: She : I love you very much honey! Please text back.   He: "Back"   *and they broke up*
+19/07/2014 06:39 RT @coolfunnytshirt: She: Jaanu,tum mujhe kitna pyar karte ho?   He: Bahot  She: Chaand taare la sakte ho?   He: Darling,mai Vaidik nahi jo…
+19/07/2014 04:59 RT @Insane_chorri: I think autocorrect is most innocent creation by humans.
+19/07/2014 04:58 RT @mihirmodi: I counted 62 girls in that Locha-E-Ulfat video. That's the total number of girls in the last 15 and a half batches of IIM-A.
+19/07/2014 03:52 RT @MohitParmarr: Doctor: How are u feeling now? Patient: I am feeling excited with 20 others. Doctor: This is a serious mental case.
+19/07/2014 03:25 RT @MeAparnaa: I Blame The Cartoon Network For Letting Me Grow Up Believing That Everything Has A Happy Ending
+19/07/2014 03:13 RT @Insane_chorri: You know day will be bad when you turn down breakfast and feel hungry 30 minutes later.
+19/07/2014 03:13 RT @UberFacts: Obese people feel full sooner after eating than people of normal weight.
+19/07/2014 03:12 RT @UberFacts: It's only possible to press a button on a controller 16 times per second. This record was set by a Japanese gamer.
+19/07/2014 03:08 RT @awwwards: Current state and future of #HTML5 games http://t.co/TtePYcMnrm #AwwwardsBlog #tools #frameworks #engines and more for #gamed…
+19/07/2014 02:28 RT @saahilisrani: " #AccordingToIndians, career choice as per Class X marks : &gt;90% - Science 70% - 90% - Commerce &lt; 70% - Arts"
+19/07/2014 02:25 RT @veedeeann: #AccordingToIndians Did Salman hug SRK or vice versa &amp; why Maria S doesn't know Sachin is far more important than stopping t…
+19/07/2014 02:25 RT @BeingJigi: #AccordingToIndians "chaar log kya kahenge" is more important than what makes you happy.
+19/07/2014 02:25 RT @Neymar_Enamored: #AccordingToIndians if you do not hero worship Sachin Tendulkar you are a worst criminal than OsamaBinLaden
+19/07/2014 02:24 RT @blue_pajamas2: #AccordingToIndians its okay to spend thousands of rupees on art of living classes to find happiness, but not okay to fe…
+19/07/2014 02:23 RT @Kachchikali: #AccordingToIndians you should be  virgin and a pro in bed at the same time #SuhagRaat
+19/07/2014 02:22 RT @bhaiyyajispeaks: #AccordingToIndians We should Clean anything with a Dirty cloth
+19/07/2014 02:21 RT @UberFacts: When times are tough, people naturally rethink their perspectives on a greater power.
+19/07/2014 02:19 RT @UberFacts: Wearing sunglasses is just as important as wearing sunscreen – Your eyes can be sunburned.
+19/07/2014 02:18 RT @paulg: 1 in 5 of Gaza Dead Are Children. http://t.co/OHWczuSD85
+19/07/2014 02:16 RT @alexisohanian: Spotted in my neighborhood cafe. I believe in her! #learn2code http://t.co/LC2sXMz5OT
+18/07/2014 16:27 Just-born baby whale rests on his/her mother's back http://t.co/wM6YNYOF4e via @9GAG
+18/07/2014 16:26 HUE HUE HUE HUE http://t.co/1UXp1eoTZq via @9GAG
+18/07/2014 16:24 I'm even posting this from the party... No joke. http://t.co/Rm0CJhe2XD via @9GAG
+18/07/2014 16:22 Parenting like a boss http://t.co/QYdFbJoURR via @9GAG
+18/07/2014 16:18 Never get in the way of a breakdancer http://t.co/7p5wbklvw8 via @9GAG
+18/07/2014 16:15 Pretty bird... Those eyelashes! http://t.co/8eFRCYyjcH via @9GAG
+18/07/2014 16:13 Like a Boss http://t.co/OozCsEG5Ag via @9GAG
+18/07/2014 16:10 Illeagle immigrants http://t.co/8NzQktXUvz via @9GAG #Hilarious
+18/07/2014 16:09 How paying my student loan bills work. http://t.co/cck4bHZiZ8 via @9GAG
+18/07/2014 16:06 Can't sleep http://t.co/RqFztg0Ous via @9GAG
+18/07/2014 15:36 RT @moj_che: Character makes a man  Photoshop makes a woman  #Dogaspeaks
+18/07/2014 15:34 RT @GabbbarSingh: All the fast bowlers of both the nations have signed an agreement to not bowl Fuller length.
+18/07/2014 14:17 RT @Sanwal22: Don't you ever forget that, everyone will let you down.
+18/07/2014 14:17 RT @Sanwal22: Never tell your story to αnybody, they'll either pity yοu or judge yοu.
+18/07/2014 13:55 RT @iamTanya_: The prize winning message of the year is :::  ''Kya Ye CORRUPTION kuchh le de k khatam nahi ho sakta...?''
+18/07/2014 13:51 RT @40billion: "If you want to conquer fear, don't sit home and think about it. Go out and get busy." - Dale Carnegie http://t.co/qCSc6vdsfM
+18/07/2014 07:38 RT @FaaduTweets: Dear music, 'm sic' without 'u'.
+18/07/2014 06:29 RT @true_mask: Never leave, if you want to be irreplaceable.
+18/07/2014 05:25 RT @UberFacts: Assume everyone already likes you when you're walking into a room and people will gravitate towards you.
+18/07/2014 04:48 RT @UberFacts: Headaches come from too much carbon dioxide and not enough oxygen.
+18/07/2014 04:41 RT @khatte_angoor: Adjourning Lok Sabha because there is violence in Gaza strip is like you taking medicines because your neighbor has fall…
+18/07/2014 04:40 RT @jainpriya10: Don't waste time looking back on memories that hurt you.
+18/07/2014 04:38 @Insane_chorri Ric Flair still has a long way to go.
+18/07/2014 04:32 RT @Inglorious_Engg: Adulthood : The time when we realize there is so much to unlearn.
+17/07/2014 17:42 Who instilled this fearlessness in the Indian tail?
+17/07/2014 17:36 "@mrealfacts: Don’t depend too much on anyone in this world because even your own shadow leaves you when you are in darkness."
+17/07/2014 17:34 @mrealfacts Is it just facebook or you are counting instagram too
+17/07/2014 17:31 RT @coolfunnytshirt: Rahane should be proud of the fact that he has scored a century at the ground where great Sir Ajit Agarkar also scored…
+17/07/2014 17:26 "@BlogOnWorkers:  #FlopBooks Converting Toss Win Into Match Wins Abroad (1001 tricks collection) -- By MS Dhoni"
+17/07/2014 17:24 "@nainkatary: Pro Tip: Listen to everyone but react to none."
+17/07/2014 17:24 "@stfu_veer: It's difficult to stay real. Everyone can pretend to please others."
+17/07/2014 17:23 "@Anksteralias: B1: *whistles* B2: *whistles*  Me: *writes a "tale of two seeties"*"
+17/07/2014 17:20 That moment when your friends call you Kutta/Kutiya on phone, and you cannot respond back with same words cause your parents are there #emo
+17/07/2014 17:17 What if clock could speak? 11pm: Soja. 12am: Soja yaar. 1am: SOJA. 2am: SOJA BHOSADIKE. 3am: -,- 4am: Ye toh sogaya. 5am: Uth ja bhosadike."
+17/07/2014 17:16 RT @CertifiedKamina: I asked a girl if she would like to have dinner tonight.  She said she likes to have dinner every night and walked awa…
+17/07/2014 17:14 RT @HaramiParindey: Ranbir Kapoor:Hello  Guy:Hello  RK *punches him*  Guy:Mukka kyu maara?  RK:Mere peeche kisi ne repeat kiya to maine ter…
+17/07/2014 17:13 @MrTippler :D
+17/07/2014 17:12 RT @LoKarDi_RT: RT if you feel like using Alohomora charm on protected twitter accounts
+17/07/2014 16:02 RT @cricBC: Srini: Grade 9 punishment for preparing such wicket. Whole ECB and anyone associated, including Boycott's grandmom to be banned…
+17/07/2014 15:26 RT @just_mohit: Even if they love you and if you keep pushing them away hard enough, eventually they will simply go and never return.
+17/07/2014 15:22 RT @coolfunnytshirt: Cook : Concentrate guys! Those whom we got out were tailenders really. Their main batsmen are Bhuvi and Shami.   #EngV…
+17/07/2014 15:19 RT @coolfunnytshirt: "Indian batsmen can't play fast bowlers!"   Sir Ravindra Jadeja : Bitch please! *gets out to a spinner*
+17/07/2014 15:16 RT @coolfunnytshirt: "Indian batting in serious trouble. Vaidik will be batting next!"   Cook: Who Vaidik?   Vaidik: I am a senior journali…
+17/07/2014 14:08 RT @RichaDKumar: What did Mommy Chidiya say to her daughter?  Ans: Ab tu birdie ho gayi hai. Ghar ke kaam mein haath bataya kar.
+17/07/2014 13:57 RT @VentureBeat: Imgur rolls out a powerful new ‘viral’ image search (aka the ultimate meme search) http://t.co/W4TxJkLFgY by @TChed http:/…
+17/07/2014 13:50 RT @UberFacts: Having arguments with people may shorten your lifespan.
+17/07/2014 13:47 RT @babydoll695: Again Pakistan Airport targeted.. Come on Media guys this is their routine business.. Happens weekly.. Nothing new now
+17/07/2014 13:43 RT @chuck_gopal: Back on @fakingNews after a while: Hardcore Indian football fan has already forgotten who won the World Cup. http://t.co/n…
+17/07/2014 13:33 RT @mashable: RIP Nokia Android phones http://t.co/5FTY59a1Ef
+17/07/2014 13:33 RT @karannkapoor18: When we make simple things complicated life becomes harder. So enjoy what we have and live life happily.
+17/07/2014 13:26 Checking your phone to see what time it is, and checking it again because the first time you weren't paying attention.
+17/07/2014 13:26 RT @DigitalDropz: Common sense is so rare these days, it should be considered as a superpower.
+17/07/2014 11:30 RT @FaaduTweets: God is not perfect. A perfect person can't forget to provide undo button in life.
+17/07/2014 09:33 RT @TheUnRealTimes: BREAKING: ACP Pradyuman and Dayashankar Pandey spotted getting off the Delhi Metro door that remained open (via @ashwin…
+17/07/2014 09:32 RT @9GAG: Luis Suarez arrives in Barcelona http://t.co/6y6lrsTk8F http://t.co/UWqh2glnb9
+17/07/2014 07:38 RT @UberFacts: According to a Swiss research study, during a full moon, you dream more.
+17/07/2014 07:12 RT @itsmausam: Regular life is so boring. ..lets sit on middle of a road and watch traffic  ~Indian Bulls @coolfunnytshirt
+17/07/2014 06:09 RT @rameshsrivats: From AR Rahman, he'll become DR. Rahman. RT @BerkleeCollege &lt;ed&gt; Rahman to receive honorary doctorate from Berklee. http…
+17/07/2014 06:06 RT @Text_O_Holic: Me: Mom, I'm going out..  Mom: Where? With whom?? Friend‘s Blood group?  Zodiac sign? Hair colour? Give me their Birth Ce…
+17/07/2014 05:07 RT @9GAG: One of the best one-liners from him. http://t.co/scKc7iu5LY http://t.co/cvt728WZIJ
+17/07/2014 05:06 RT @i_theindian: You’ll never find true happiness, until you find a friend to fall in love with.
+16/07/2014 13:13 RT @TheWeirdWorld: http://t.co/8nvGQfU2lI
+15/07/2014 16:24 RT @NaughtyDew_: A girl was found wearing shorts in Antarctica. After interrogation it was found that "Ladki South Delhi ki thi"
+15/07/2014 16:18 RT @doctoratlarge: The final process of maturity is realizing that u can't be angry with the world because of your experience with a few st…
+15/07/2014 15:51 @witchybitchygal lol
+15/07/2014 15:49 ": All the planets in our solar system reportedly rotate anticlockwise  Except for Venus  And women are from........"
+15/07/2014 15:48 RT @Being_Humor: Guinness book World Record10000 coffee cups with different milk proportions used to make this picture. Inorbit Mumbai http…
+15/07/2014 15:46 Dr Shusha has kidnapped Nobita and Doraemon.. Ab mujhe hi kuch karna padega.." http://t.co/k39Rmr9lb3"
+15/07/2014 15:43 "@Mit7786: Japanese invented split AC, but splitting the split ac was invented by Indians! Incredible india!! http://t.co/zfFOvLZ9c5"
+15/07/2014 15:40 "@twinitisha: Worries never end.They exist in all forms,shapes,sizes... forever."
+15/07/2014 15:39 "@coolfunnytshirt: Raymond - The Complete Man.  KRK - The complete chutiya."
+15/07/2014 15:37 RT @Extranaut: Not sure if Mary Kom or Million Dollar Baby.
+15/07/2014 15:35 RT @friendlii_ghost: A strong man can handle a strong woman. A weak man will say she has an attitude.
+15/07/2014 07:09 RT @envato: New on Inside.Envato: What Happens When a Company Worth $5bn Clones Your Product? http://t.co/30JFg8LFLW
+15/07/2014 07:05 RT @Kuldeepsony: @Insane_chorri http://t.co/zzb3rGLZzh
+15/07/2014 07:01 RT @mashable: Microsoft's New CEO Says He Wants to Learn From Google - http://t.co/IJyFdqgw7A
+15/07/2014 03:04 "@UberFacts: Studies have proven that praise rather than criticism is the best way to help employees improve."
+15/07/2014 03:02 @GoliwaleBaba Read that wrong in the first attempt.
+15/07/2014 03:01 "@Being_Humor: Sanjay Jha new Rahul Gandhi. : I think Monday is the new Sunday.""
+14/07/2014 15:46 RT @MTVBuzzworthy: Germany who? @Rihanna totally won the World Cup: http://t.co/D5XCA4hT9F @URihannaFansite @itsQueenRih @rihannadaily I kn…
+14/07/2014 15:26 RT @NaughtyDew_: You cannot die of boredom in India.
+14/07/2014 11:30 RT @mashable: 6 Marketing Ideas Small Businesses Can Learn From Big Brands http://t.co/JjRNPlAMss
+14/07/2014 11:28 RT @mashable: Female Entrepreneurs Offer Advice on Conquering 7 Career Roadblocks http://t.co/MydOSmGs4K @bndarticles
+14/07/2014 10:18 RT @9GAG: I hate mosquitoes, I mean I know I'm delicious but damn
+14/07/2014 10:13 RT @coolfunnytshirt: "Sanjay, which role have you enjoyed the most so far in your career?"   Sanjay Dutt: Parole!
+13/07/2014 21:47 RT @rameshsrivats: Hey Ram. Argentina got killed at the last moment by Nathuram Goetze.
+13/07/2014 21:47 RT @coolfunnytshirt: Oye Sabella! Higuain aur Aguero ko olx pe bech daal..
+13/07/2014 21:46 #Congrats #Germany #welldeserved #Argentina #Toughluck. #EntertainingFinal #WorldCupFinal
+13/07/2014 20:55 RT @defilibrator: The #WorldCupFinal will go to penalties because #Israel wants the world to look towards Rio, not at #Gaza.
+13/07/2014 20:53 30 more minutes of action. Go Argentina. Don't take it to the penalties.#WorldCupFinal
+13/07/2014 20:45 Messi score a goal please#worldcupfinal
+13/07/2014 20:31 RT @9GAG: I thought about the song instantly when I saw this scene. http://t.co/ljQpTXR3a1  #worldcupfinal #germany #argentina http://t.co/…
+13/07/2014 20:28 RT @HTSportsNews: #yellow for #Mascherano and #Aguero. Fair?  #GER 0 #ARG 0 Live: http://t.co/262p4vTMWA #WorldCupFinal http://t.co/U4pbizt…
+13/07/2014 20:21 62 minutes and we dont have a goal yet. #WorldCupFinal
+13/07/2014 20:20 RT @London24Sport: Higuain penalised for getting absolutely wiped out by Neuer #WorldCupFinal  http://t.co/D1MxkqUPiR
+13/07/2014 20:17 Didn't expect the final to be so #violent #WorldCupFinal
+13/07/2014 20:12 Germans are looking uncomfortable. Unlikely to win. Go #Argentina  #WorldCupFinal
+13/07/2014 20:10 RT @MashableLive: #WorldCup reGIF: A miss by Messi sails right past the post. http://t.co/WM9UIETOC1
+13/07/2014 20:10 The statue of Jesus is looking amazing  #RioLive #WorldCupFinal
+13/07/2014 20:08 RT @ibnlive: #WorldCupFinal: Lionel Messi misses a close chance to score near the box. #GER 0-0 #ARG . http://t.co/FYjHKnU6Yr #WorldsCup
+13/07/2014 20:07 RT @TeamMessi: The biggest 45 minutes of your life. Seize glory. #allin or nothing #WorldCupFinal #Messi http://t.co/xeHiwOyXw6
+13/07/2014 20:06 Messi. You literally missed that by an inch  #Argentina
+13/07/2014 20:06 Offside Again    #Frustrated #WorldCupFinal
+13/07/2014 20:04 Second half starting now. Hoping for an early Argentinian goal  #WorldCupFinal #Argentina
+13/07/2014 20:02 @rameshsrivats You never fail to impress me
+13/07/2014 19:56 #HeartPatients please avoid watching the #WorldCupFinal it's too hard for you to handle it
+13/07/2014 19:55 RT @DsouzaJennifer: Finals tickets for Rs.12 lakhs! WOW! #WorldCupFinal doesn't look that bad on T.V if a choice is to be made :P
+13/07/2014 19:49 RT @Sports_NDTV: #WorldCupFinal: 2 minutes of added time. Fierce battle between #GER and #ARG but no goals yet http://t.co/GEFJOkFpj8 http:…
+13/07/2014 19:48 Its half time and i was right. Score 0-0  #GERvsARG
+13/07/2014 19:45 RT @Arch_Warrior: Alia: Y didn they count dat Goal? RaGa:Bcoz it was Off-side Alia: But he scored it wid his leg,so it shud be LEG-side na?…
+13/07/2014 19:42 Not expecting a goal till half time   #WorldCupFinal
+13/07/2014 19:38 RT @adi3007: Higuain Mumbai Indians ki uniform mein Rohit Sharma jaisa pradarshan karte hua. @coolfunnytshirt
+13/07/2014 19:38 I feel for Kramer, first World Cup final and about 20 mins in he gets injured.  #WorldCupFinal
+13/07/2014 19:34 RT @MapsMaponyane: Argentina is proving many wrong and is seriously playing like a team today and not solely relying on Messi. #WorldCupFin…
+13/07/2014 19:33 Foul playing Germans. Suck It  #WorldCupFinal
+13/07/2014 19:30 Had my heart in my mouth. #Higuan its not your night.  #WorldCupFinal
+13/07/2014 19:28 Romero you are amazing #WorldCupFinal #Argentina
+13/07/2014 19:24 Higuain just showed everyone why you #ARG have no choice but to count in Messi #GERARG #WorldCupFinal
+13/07/2014 19:22 Argentina missed a good opportunity. Might prove costly.  #WorldCupFinal #GERvsARG
+13/07/2014 19:20 If #ChristophKramer needs someone to take care of him and that injury, my afternoon is wide open! #WorldCupFinal #GERvsARG
+13/07/2014 19:18 Elbow to the head. Strong blow.  #WorldCupFinal #GERvsARG
+13/07/2014 19:11 First corner for Argentina. Not converted to a goal though #WorldCupFinal #GERvsARG
+13/07/2014 19:10 @LeoMessi1987 looking fantastic #WorldCupFinal #GERvsARG
+13/07/2014 19:07 Squads for the game https://t.co/2FqA5RKsm9 #WorldCupFinal #GERvsARG
+13/07/2014 19:04 Germany free kick. Argentina threatening. #WorldCupFinal #GERvsARG
+13/07/2014 19:00 The game begins. Go @argentinasoccer #WorldCupFinal #GERvsARG
+13/07/2014 18:58 Its time for the anthems. Hoping for an Argentinian win. Go @argentiniansoccer  #WorldCupFinal  #GERvsARG
+13/07/2014 18:44 RT @MTV: Hey, @MileyCyrus! You got a little shout out on @FrencHMonTanA's new track: http://t.co/elAsQDfA83
+13/07/2014 18:44 RT @romeomustdiee: A sister is there for you when no one else is http://t.co/UugTUOST0k
+13/07/2014 18:38 Minutes away from the most tweeted game ever #GERvsARG #WorldCupFinal
+13/07/2014 17:27 RT @UberFacts: A strawberry isn't an actual berry, but a banana is.
+13/07/2014 17:10 #Binny saves the first test http://t.co/QBvNIDAn2s
+13/07/2014 17:05 RT @9GAG: The left handed people will know http://t.co/FEZkJpB083 http://t.co/NO2AwVDbh3
+13/07/2014 16:42 RT @mashable: Supermoon rises: 10 gorgeous photos to remind us how small we are. http://t.co/OzSoTOlQ2o http://t.co/p8dI9BLEBF
+13/07/2014 16:27 Four reasons why Argentina can upset Germany http://t.co/TF1CkwZ1HR #GERvsARG
+13/07/2014 16:03 We all are just in dire need of being needed by someone.
+13/07/2014 15:40 Go @argentinasoccer win the WorldCup  #GERvsARG #WorldCupFinal
+13/07/2014 15:34 #Binny plays a good innings to save #India from a collapse. Its upto @BhuviOfficial and #shami #IndvsEng
+13/07/2014 15:26 RT @IAmSulala: I'm selectively social. Yes, I'll smile, and have small talks with you, but close, nu-uh.
+13/07/2014 15:21 Arg: We have Messi.  Ger: We have an army.  #GERvsARG #FinalsWithCoke
+13/07/2014 15:17 RT @narendramodi: Best wishes to Argentina &amp; Germany for the FIFA World Cup Final. It is amazing how the tournament brought fans across the…
+13/07/2014 15:17 @NaughtyDew_ LOL
+13/07/2014 15:16 @true_mask Exactly
+13/07/2014 11:30 RT @NYAGAH_: "I'm mad at you and I'm going to be very specific in telling you why" - Said No Woman Ever
+13/07/2014 11:23 RT @alexisohanian: Drop the "Rap" -- just call it "Genius." http://t.co/dVIhGMZhPi
+13/07/2014 10:30 Being perfect is not our Thing, try being Graceful.
+13/07/2014 10:28 RT @cum_in_myboty: #RETWEET THIS! FOLLOW ME &amp;EVERYONE ELSE THAT RETWEETS THIS FOR 50+FOLLOWERS FAST! #TeamFollowBack #Follow2BeFollowed #Pe…
+13/07/2014 06:03 You need at least a few dots before you can begin connecting them.
+13/07/2014 05:59 The average cloud weighs 1.1 million pounds.
+13/07/2014 05:56 RT @mashable: This dog riding in a Porsche is having the best day ever: http://t.co/rq72RqT4kN http://t.co/aiwaWw3RRV
+13/07/2014 04:40 @ThisIsDeep_ @TheWeirdWorld #Old But #Gold
+13/07/2014 04:31 @SteveJobs_es the #perfectionist http://t.co/XsCJHjVNOr
+13/07/2014 03:59 Netherlands which had not scored in the last two matches, scored against Brazil. #BRAvsNED #BrazillianDefence #TooWeak
+13/07/2014 03:52 @ProudDilliwala @Argentina is going to win the #world Cup today.
+13/07/2014 03:44 @naalaYUCK LOL
+13/07/2014 03:42 @UberFacts You just ruined my whole day
+13/07/2014 03:40 "@UberFacts: The desire to lie, cheat and steal is increased when you get less than 8 hours of sleep."
+13/07/2014 03:36 "@9GAG: I tried making password "brazildefence" but the site says its too weak. #BrazilVsNetherlands"
+13/07/2014 01:23 Thanks to the hike in cigarette prices, dying in this country has just become more expensive. #Budget2014
+13/07/2014 00:44 RT @NaughtyDew_: Indian budget is nothing but decreasing the price of one stuff and compensating it by increasing the other. #Budget2014
+12/07/2014 23:32 A Guide to Networking for Introverts http://t.co/OhqNd4QN9j via @crewlabs http://t.co/YvA4ZVetAj
+12/07/2014 21:32 "Design is how you treat your customers." - Yves Behar
+12/07/2014 21:17 RT @gouravmalhotra: You don't want her, but you don't want anyone else to have her. Sick. Grow up!
+12/07/2014 20:34 200 Crore Club 1. Dhoom 3 2. Chennai Express  3. 3 idiots  4: Sardar Patel Statue #Budget2014
+12/07/2014 20:15 RT @mainbhiengineer: Taran Adarsh gave 4 stars to Humpty Sharma Ki dulhania, disgusting to see someone is rating someone else wife in publi…
+12/07/2014 19:47 40 Epic Resources For Investing In Startups http://t.co/hfUxDlhq9T
+12/07/2014 19:33 RT @google: All eyes on Brasília. #BRAvsNED #GoogleTrends http://t.co/y6zUrOsO16 http://t.co/jmyoZzPKx5
+12/07/2014 19:03 Hope to see an interesting clash tonight. Go @dutchsoccer #BRAvsNED
+12/07/2014 18:55 Connected my @twitter to @klout. Hoping to get good results soon.
+12/07/2014 18:46 When you judge someone without knowing them, you do not define them, you define yourself.
+12/07/2014 15:25 RT @rameshsrivats: '94 SWE, '98 CRO, '02 TUR, '06 GER, '10 GER.  In the last 5 WCs, the team that beat the 3rd placed team in semis won the…
+12/07/2014 15:10 @TheWeirdWorld Source
+12/07/2014 15:05 RT @Urban_Stifler: God created bosses so give bachelors a glimpse of what married life is all about.
+12/07/2014 14:52 #intelligence usually means proving others fools. There are very few who are intelligent enough to overcome this illusion...
+12/07/2014 14:19 RT @coolfunnytshirt Matt Prior : I owe my legendary fielding &amp; catching skills to my legendary guru Munaf Patel. #GuruPoornima
+12/07/2014 09:29 @UberFacts That's really cool
+12/07/2014 09:22 RT @UberFacts After consuming alcohol, our perceptions change to make people appear more attractive. So yes, "beer goggles" are real.
+12/07/2014 08:08 The #windows phone app for @twitter  is much better than other social networking apps. #Hope #Relief
+12/07/2014 05:16 How can people be so stupid http://t.co/NGY66CfAjf
+12/07/2014 05:11 Even if you are the sweetest of all the mangoes, some people will prefer strawberries. Stop seeking attention, you cannot please everybody!
+12/07/2014 04:43 You can order every gym gear online except motivation. #fitness
+12/07/2014 04:34 RT @Aisha_Tweeets: @LeTorturedSoul @coolfunnytshirt  I only cook bcoz...oh wait.I never cook.I like them raw *evil laugh* ~Saurez
+12/07/2014 04:17 Go @ARGENTINA! #WorldCup Who are you supporting? https://t.co/LWeTzAWIkO
+12/07/2014 04:07 RT @coolfunnytshirt: I only cook when i am under a lot of pressure. I am a pressure cooker.
+11/07/2014 18:53 RT @rameshsrivats: #Budget2014 I plan to create a start-up that will build a Sardar Vallabhai Patel statue. Hehe. Rs. 10,200 crore funding …
+11/07/2014 15:48 RT @coolfunnytshirt: Murali Vijay scoring runs.   Ishant Sharma getting wickets.   Tailenders scoring runs.   It's confirmed - ACHHE DIN AA…
+11/07/2014 15:45 RT @VentureBeat: A personal story about five games that helped one reader cope with loneliness &amp; depression http://t.co/44VrjHdo3Y http://t…
+11/07/2014 15:45 @VentureBeat
+07/06/2014 05:50 http://t.co/fUXT1EtLGd
+02/03/2014 11:28 RT @UberFacts: The average person falls in love 7 times before getting married.
+01/03/2014 17:23 @alexisohanian @LoganAPaul Waiting for it
+01/03/2014 09:15 If at first you don't succeed; call it version 1.0
+01/03/2014 08:56 RT @UberFacts: At top speed, a Bugatti Veyron will empty its 26 gallon gas tank in 12 minutes.
+28/02/2014 14:33 Bitcoin Exchange Mt. Gox Files for Bankruptcy http://t.co/qhLQDzOQUD via @mashable
+28/02/2014 12:02 RT @UberFacts: Chocolate, sex and laughter are all key to a healthy brain.
